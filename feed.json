@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2025/09/08/personal-hygiene-confidence-indicator-im.html",
+				
+				"content_html": "<p>Personal hygiene confidence indicator: I’m now eating ramen shirtless. 🏴‍☠️</p>\n",
+				"content_text": "Personal hygiene confidence indicator: I’m now eating ramen shirtless. 🏴‍☠️ \n",
+				"date_published": "2025-09-08T12:30:14-04:00",
+				"url": "https://www.chrisdeluca.me/2025/09/08/personal-hygiene-confidence-indicator-im.html",
+				"tags": ["jokes"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2025/09/07/interesting-blog-post-over-at.html",
+				
+				"content_html": "<p>Interesting blog post over at This Days Portion: <a href=\"https://www.thisdaysportion.com/posts/contra-analytics/\">You do not need “analytics” for your blog because you are neither a military surveillance unit nor a commodity trading company</a>. My thoughts weren’t that articulate, but I removed analytics from my blog years ago for similar reasons. 💽</p>\n",
+				"content_text": "Interesting blog post over at This Days Portion: [You do not need “analytics” for your blog because you are neither a military surveillance unit nor a commodity trading company](https://www.thisdaysportion.com/posts/contra-analytics/). My thoughts weren’t that articulate, but I removed analytics from my blog years ago for similar reasons. 💽\n",
+				"date_published": "2025-09-07T08:22:26-04:00",
+				"url": "https://www.chrisdeluca.me/2025/09/07/interesting-blog-post-over-at.html",
+				"tags": ["tech"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2025/08/30/i-saw-assscat-with-my.html",
 				
-				"content_html": "<p>I saw Assscat with my friend Delmar last night. Very funny show. Wyatt Cenac was the monologist. He asked what Gabagool was.</p>\n<blockquote>\n<p>Sebastian: “Capicola”</p>\n<p>Wyatt: “Why don’t they say Capicola, then?”</p>\n<p>Sebastian: “They switch ‘C’ for ‘G’.”</p>\n<p>Shannon: “If they offer you gum, don’t take it.”</p>\n</blockquote>\n<p>The room fell over. 🎭</p>\n",
-				"content_text": "I saw Assscat with my friend Delmar last night. Very funny show. Wyatt Cenac was the monologist. He asked what Gabagool was.\n\n> Sebastian: “Capicola”\n>\n> Wyatt: “Why don’t they say Capicola, then?”\n>\n> Sebastian: “They switch ‘C’ for ‘G’.”\n>\n> Shannon: “If they offer you gum, don’t take it.”\n\nThe room fell over. 🎭\n",
+				"content_html": "<p>I saw Assscat with my friend Delmar last night. Very funny show. Wyatt Cenac was the monologist. He asked what Gabagool was.</p>\n<blockquote>\n<p>Sebastian: “Capicola”<br>\nWyatt: “Why don’t they say Capicola, then?”<br>\nSebastian: “They switch ‘C’ for ‘G’.”<br>\nShannon: “If they offer you gum, don’t take it.”</p>\n</blockquote>\n<p>The room fell over. 🎭</p>\n",
+				"content_text": "I saw Assscat with my friend Delmar last night. Very funny show. Wyatt Cenac was the monologist. He asked what Gabagool was.\n\n> Sebastian: “Capicola”  \n> Wyatt: “Why don’t they say Capicola, then?”  \n> Sebastian: “They switch ‘C’ for ‘G’.”  \n> Shannon: “If they offer you gum, don’t take it.”  \n\nThe room fell over. 🎭\n",
 				"date_published": "2025-08-30T08:25:35-04:00",
 				"url": "https://www.chrisdeluca.me/2025/08/30/i-saw-assscat-with-my.html",
 				"tags": ["improv"]
