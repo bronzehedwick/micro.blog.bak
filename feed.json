@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/01/09/godzilla-vs-destoroyah.html",
+				"title": "Godzilla vs. Destoroyah, 1995",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2026/44476-godzilla-vs-destoroyah-0-600-0-900-crop.jpg\"/></p> <p>In this one the Godzilla is on fire and lights up and is in water. The actor in the suit needs a medal.</p>\n",
+				"date_published": "2026-01-09T23:37:46-05:00",
+				"url": "https://www.chrisdeluca.me/2026/01/09/godzilla-vs-destoroyah.html",
+				"tags": ["movies","photos","letterboxd"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/01/06/the-ditto-command.html",
+				"title": "The ditto command",
+				"content_html": "<p>A little while ago, I discovered the <code>ditto</code> command on macOS. It&rsquo;s a copy command, similar to <code>rsync</code>, but handles some macOS things? Something like that.</p>\n<p>I don&rsquo;t have any need for it (yet?), but it gave me a little thrill to discover it existed. In looking for the manual page online, I found that all the sites that host it are low effort and have crappy ads.</p>\n<p>This cannot stand.</p>\n<p>Now I&rsquo;m hosting a copy of the <a href=\"/man/ditto/\"><code>ditto</code> man page</a>. I cleaned up the HTML to be semantic and accessible, and added a light, readable stylesheet.</p>\n<p>Enjoy? 💽</p>\n",
+				"content_text": "A little while ago, I discovered the `ditto` command on macOS. It's a copy command, similar to `rsync`, but handles some macOS things? Something like that.\n\nI don't have any need for it (yet?), but it gave me a little thrill to discover it existed. In looking for the manual page online, I found that all the sites that host it are low effort and have crappy ads.\n\nThis cannot stand.\n\nNow I'm hosting a copy of the [`ditto` man page](/man/ditto/). I cleaned up the HTML to be semantic and accessible, and added a light, readable stylesheet.\n\nEnjoy? 💽\n",
+				"date_published": "2026-01-06T11:48:50-05:00",
+				"url": "https://www.chrisdeluca.me/2026/01/06/the-ditto-command.html",
+				"tags": ["tech"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/01/05/the-first-time-i-had.html",
 				
 				"content_html": "<p>The first time I had Indian/Pakistani-style sour pickles, it was maybe 2015. My friend Mani had taken me to Punjabi Deli, and he urged me to try the pickled mangos. It felt like my mouth was imploding. I couldn&rsquo;t imagine taking another bite. While this thought was still in my mind, I had some more pickle. It&rsquo;s been a flavor I&rsquo;ve sought out ever since. 🍴</p>\n",
