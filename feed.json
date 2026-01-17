@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/01/16/godzilla-final-wars.html",
+				"title": "Godzilla: Final Wars, 2004",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2026/42117-godzilla-final-wars-0-600-0-900-crop.jpg\"/></p> <p>This movie grabs you and doesn’t let go. On the second viewing it all clicks into place. And by “place” I mean “mud”.</p>\n",
+				"date_published": "2026-01-16T23:00:03-05:00",
+				"url": "https://www.chrisdeluca.me/2026/01/16/godzilla-final-wars.html",
+				"tags": ["movies","photos","letterboxd"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/01/11/serial-mom.html",
 				"title": "Serial Mom, 1994 - ★★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -176,7 +185,7 @@
 				"id": "http://chrisd.micro.blog/2025/12/13/084923.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/111874/2025/lic.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A cityscape view features buildings of various heights and a distant bridge under a cloudy sky.\">\n",
+				"content_text": "<img src=\"uploads/2025/lic.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A cityscape view features buildings of various heights and a distant bridge under a cloudy sky.\">\n",
 				"date_published": "2025-12-13T08:49:23-05:00",
 				"url": "https://www.chrisdeluca.me/2025/12/13/084923.html",
 				"tags": ["photos"]
@@ -212,7 +221,7 @@
 				"id": "http://chrisd.micro.blog/2025/12/05/the-return-of-godzilla.html",
 				"title": "The Return of Godzilla, 1984",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2025/355180-the-return-of-godzilla-0-600-0-900-crop.jpg\"/></p> <p>The models, destruction, and monster suit look amazing. The ending is a wet noodle. The product is pretty fun.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/355180-the-return-of-godzilla-0-600-0-900-crop.jpg\"/></p> <p>The models, destruction, and monster suit look amazing. The ending is a wet noodle. The product is pretty fun.</p>\n",
 				"date_published": "2025-12-05T17:32:55-05:00",
 				"url": "https://www.chrisdeluca.me/2025/12/05/the-return-of-godzilla.html",
 				"tags": ["movies","photos","letterboxd"]
