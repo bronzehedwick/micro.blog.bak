@@ -7,12 +7,37 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/01/21/currently-reading-the-dark-tower.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781501143519\">The Dark Tower I</a> by Stephen King 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781501143519/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Dark Tower I](https://micro.blog/books/9781501143519) by Stephen King 📚\n",
+				"date_published": "2026-01-21T00:48:45-05:00",
+				"url": "https://www.chrisdeluca.me/2026/01/21/currently-reading-the-dark-tower.html"
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/01/19/started-reading-the-dark-tower.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Started reading: <a href=\"https://micro.blog/books/9781501143557\">The Dark Tower IV</a> by Stephen King 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781501143557/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nStarted reading: [The Dark Tower IV](https://micro.blog/books/9781501143557) by Stephen King 📚\n",
+				"date_published": "2026-01-19T22:51:14-05:00",
+				"url": "https://www.chrisdeluca.me/2026/01/19/started-reading-the-dark-tower.html"
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/01/19/finished-reading-the-dark-tower.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781501141416\">The Dark Tower III</a> by Stephen King 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781501141416/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Dark Tower III](https://micro.blog/books/9781501141416) by Stephen King 📚\n",
 				"date_published": "2026-01-19T17:15:12-05:00",
 				"url": "https://www.chrisdeluca.me/2026/01/19/finished-reading-the-dark-tower.html"
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/01/19/cecil-b-demented.html",
+				"title": "Cecil B. Demented, 2000 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2026/2f76a471dc.jpg\"/></p> <p>Still great.</p>\n",
+				"date_published": "2026-01-19T17:14:48-05:00",
+				"url": "https://www.chrisdeluca.me/2026/01/19/cecil-b-demented.html",
+				"tags": ["movies","photos","letterboxd"]
 			},
 			{
 				"id": "http://chrisd.micro.blog/2026/01/16/godzilla-final-wars.html",
@@ -27,7 +52,7 @@
 				"id": "http://chrisd.micro.blog/2026/01/11/serial-mom.html",
 				"title": "Serial Mom, 1994 - ★★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2026/45158-serial-mom-0-600-0-900-crop.jpg\"/></p> <p>I can’t believe it took me this long to see this. A+</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/45158-serial-mom-0-600-0-900-crop.jpg\"/></p> <p>I can’t believe it took me this long to see this. A+</p>\n",
 				"date_published": "2026-01-11T14:51:23-05:00",
 				"url": "https://www.chrisdeluca.me/2026/01/11/serial-mom.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -36,7 +61,7 @@
 				"id": "http://chrisd.micro.blog/2026/01/09/godzilla-vs-destoroyah.html",
 				"title": "Godzilla vs. Destoroyah, 1995",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2026/44476-godzilla-vs-destoroyah-0-600-0-900-crop.jpg\"/></p> <p>In this one the Godzilla is on fire and lights up and is in water. The actor in the suit needs a medal.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/44476-godzilla-vs-destoroyah-0-600-0-900-crop.jpg\"/></p> <p>In this one the Godzilla is on fire and lights up and is in water. The actor in the suit needs a medal.</p>\n",
 				"date_published": "2026-01-09T23:37:46-05:00",
 				"url": "https://www.chrisdeluca.me/2026/01/09/godzilla-vs-destoroyah.html",
 				"tags": ["movies","photos","letterboxd"]
