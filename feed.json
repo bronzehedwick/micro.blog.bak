@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/01/26/ill-be-talking-about-advanced.html",
+				
+				"content_html": "<p>I&rsquo;ll be talking about <a href=\"https://www.fldrupal.camp/session/advanced-css-custom-properties-components\">Advanced CSS Custom Properties for Components</a> at Florida Drupal Camp in less than a month! It&rsquo;s a great speaker lineup, myself excluded. 💽</p>\n",
+				"content_text": "I'll be talking about [Advanced CSS Custom Properties for Components](https://www.fldrupal.camp/session/advanced-css-custom-properties-components) at Florida Drupal Camp in less than a month! It's a great speaker lineup, myself excluded. 💽\n",
+				"date_published": "2026-01-26T10:12:26-05:00",
+				"url": "https://www.chrisdeluca.me/2026/01/26/ill-be-talking-about-advanced.html",
+				"tags": ["tech"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/01/26/interstella-the-tory-of-the.html",
+				"title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem, 2003",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2026/45654-interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem-0-600-0-900-crop.jpg\"/></p> <p>Such a cool movie for a perfect album.</p>\n",
+				"date_published": "2026-01-26T00:04:45-05:00",
+				"url": "https://www.chrisdeluca.me/2026/01/26/interstella-the-tory-of-the.html",
+				"tags": ["movies","photos","letterboxd"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/01/25/in-the-mouth-of-madness.html",
+				"title": "In the Mouth of Madness, 1994",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2026/50166-in-the-mouth-of-madness-0-600-0-900-crop.jpg\"/></p> <p>This movie rules. A meta Ouroboros-ass cosmic horror about writing with Sam Neil chowing scenery, goopy practical monsters, and a glam rock soundtrack.  What’s not to love.</p>\n",
+				"date_published": "2026-01-25T22:08:45-05:00",
+				"url": "https://www.chrisdeluca.me/2026/01/25/in-the-mouth-of-madness.html",
+				"tags": ["movies","photos","letterboxd"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/01/23/i-got-to-cowork-today.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>I got to co-work today with one of my favorite pups. 🐶</p>\n",
@@ -61,7 +88,7 @@
 				"id": "http://chrisd.micro.blog/2026/01/19/cecil-b-demented.html",
 				"title": "Cecil B. Demented, 2000 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2026/2f76a471dc.jpg\"/></p> <p>Still great.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/2f76a471dc.jpg\"/></p> <p>Still great.</p>\n",
 				"date_published": "2026-01-19T17:14:48-05:00",
 				"url": "https://www.chrisdeluca.me/2026/01/19/cecil-b-demented.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -124,7 +151,7 @@
 				"id": "http://chrisd.micro.blog/2026/01/03/marty-supreme.html",
 				"title": "Marty Supreme, 2025 - ★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/1197499-marty-supreme-0-600-0-900-crop.jpg\"/></p> <p>Another safdie joint where one asshole burns his life to the ground and everyone yelling. I had a good time.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/1197499-marty-supreme-0-600-0-900-crop.jpg\"/></p> <p>Another safdie joint where one asshole burns his life to the ground and everyone yelling. I had a good time.</p>\n",
 				"date_published": "2026-01-03T21:44:41-05:00",
 				"url": "https://www.chrisdeluca.me/2026/01/03/marty-supreme.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -142,7 +169,7 @@
 				"id": "http://chrisd.micro.blog/2026/01/02/buckaroo-banzai-declassified.html",
 				"title": "Buckaroo Banzai Declassified, 2002",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/26948-buckaroo-banzai-declassified-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday January 1, 2026.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/26948-buckaroo-banzai-declassified-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday January 1, 2026.</p>\n",
 				"date_published": "2026-01-02T16:27:06-05:00",
 				"url": "https://www.chrisdeluca.me/2026/01/02/buckaroo-banzai-declassified.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -245,7 +272,7 @@
 				"id": "http://chrisd.micro.blog/2025/12/13/084923.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/111874/2025/lic.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A cityscape view features buildings of various heights and a distant bridge under a cloudy sky.\">\n",
+				"content_text": "<img src=\"uploads/2025/lic.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A cityscape view features buildings of various heights and a distant bridge under a cloudy sky.\">\n",
 				"date_published": "2025-12-13T08:49:23-05:00",
 				"url": "https://www.chrisdeluca.me/2025/12/13/084923.html",
 				"tags": ["photos"]
@@ -281,7 +308,7 @@
 				"id": "http://chrisd.micro.blog/2025/12/05/the-return-of-godzilla.html",
 				"title": "The Return of Godzilla, 1984",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2025/355180-the-return-of-godzilla-0-600-0-900-crop.jpg\"/></p> <p>The models, destruction, and monster suit look amazing. The ending is a wet noodle. The product is pretty fun.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/355180-the-return-of-godzilla-0-600-0-900-crop.jpg\"/></p> <p>The models, destruction, and monster suit look amazing. The ending is a wet noodle. The product is pretty fun.</p>\n",
 				"date_published": "2025-12-05T17:32:55-05:00",
 				"url": "https://www.chrisdeluca.me/2025/12/05/the-return-of-godzilla.html",
 				"tags": ["movies","photos","letterboxd"]
