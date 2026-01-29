@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/01/28/mortal-kombat.html",
+				"title": "Mortal Kombat, 1995",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2026/47281-mortal-kombat-0-600-0-900-crop.jpg\"/></p> <p>Let’s go.</p>\n",
+				"date_published": "2026-01-28T22:59:05-05:00",
+				"url": "https://www.chrisdeluca.me/2026/01/28/mortal-kombat.html",
+				"tags": ["movies","photos","letterboxd"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/01/27/forgot-to-post-a-snowday.html",
+				
+				"content_html": "<p>Forgot to post a snow-day photo. Stay warm out there.</p>\n",
+				"content_text": "Forgot to post a snow-day photo. Stay warm out there.\n",
+				"date_published": "2026-01-27T11:38:58-05:00",
+				"url": "https://www.chrisdeluca.me/2026/01/27/forgot-to-post-a-snowday.html"
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/01/27/together-apart.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Together apart. 🐈 🐈‍⬛</p>\n",
+				"content_text": "<img src=\"uploads/2026/kitty-sisters.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: Two cats are resting on a colorful floral-patterned blanket on a couch with several pillows.\">\n\nTogether apart. 🐈 🐈‍⬛\n",
+				"date_published": "2026-01-27T11:38:04-05:00",
+				"url": "https://www.chrisdeluca.me/2026/01/27/together-apart.html",
+				"tags": ["cats","photos"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/01/26/ill-be-talking-about-advanced.html",
 				
 				"content_html": "<p>I&rsquo;ll be talking about <a href=\"https://www.fldrupal.camp/session/advanced-css-custom-properties-components\">Advanced CSS Custom Properties for Components</a> at Florida Drupal Camp in less than a month! It&rsquo;s a great speaker lineup, myself excluded. 💽</p>\n",
@@ -37,7 +63,7 @@
 				"id": "http://chrisd.micro.blog/2026/01/23/i-got-to-cowork-today.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>I got to co-work today with one of my favorite pups. 🐶</p>\n",
-				"content_text": "<img src=\"uploads/2026/signal-2026-01-23-213431.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A man with a beard is sitting at a table in a cafe called Doggy with a dog sitting beside him on a bench.\">\n\nI got to co-work today with one of my favorite pups. 🐶\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/111874/2026/signal-2026-01-23-213431.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A man with a beard is sitting at a table in a cafe called Doggy with a dog sitting beside him on a bench.\">\n\nI got to co-work today with one of my favorite pups. 🐶\n",
 				"date_published": "2026-01-23T21:41:29-05:00",
 				"url": "https://www.chrisdeluca.me/2026/01/23/i-got-to-cowork-today.html",
 				"tags": ["photos"]
