@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/01/30/listen-my-friend-ellen-is.html",
+				
+				"content_html": "<p>Listen: my friend Ellen is cool. Thank you for your attention.</p>\n",
+				"content_text": "Listen: my friend Ellen is cool. Thank you for your attention. \n",
+				"date_published": "2026-01-30T18:59:29-05:00",
+				"url": "https://www.chrisdeluca.me/2026/01/30/listen-my-friend-ellen-is.html"
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/01/28/mortal-kombat.html",
 				"title": "Mortal Kombat, 1995",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2026/47281-mortal-kombat-0-600-0-900-crop.jpg\"/></p> <p>Let’s go.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/47281-mortal-kombat-0-600-0-900-crop.jpg\"/></p> <p>Let’s go.</p>\n",
 				"date_published": "2026-01-28T22:59:05-05:00",
 				"url": "https://www.chrisdeluca.me/2026/01/28/mortal-kombat.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -27,7 +35,7 @@
 				"id": "http://chrisd.micro.blog/2026/01/27/together-apart.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Together apart. 🐈 🐈‍⬛</p>\n",
-				"content_text": "<img src=\"uploads/2026/kitty-sisters.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: Two cats are resting on a colorful floral-patterned blanket on a couch with several pillows.\">\n\nTogether apart. 🐈 🐈‍⬛\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/111874/2026/kitty-sisters.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: Two cats are resting on a colorful floral-patterned blanket on a couch with several pillows.\">\n\nTogether apart. 🐈 🐈‍⬛\n",
 				"date_published": "2026-01-27T11:38:04-05:00",
 				"url": "https://www.chrisdeluca.me/2026/01/27/together-apart.html",
 				"tags": ["cats","photos"]
@@ -54,7 +62,7 @@
 				"id": "http://chrisd.micro.blog/2026/01/25/in-the-mouth-of-madness.html",
 				"title": "In the Mouth of Madness, 1994",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2026/50166-in-the-mouth-of-madness-0-600-0-900-crop.jpg\"/></p> <p>This movie rules. A meta Ouroboros-ass cosmic horror about writing with Sam Neil chowing scenery, goopy practical monsters, and a glam rock soundtrack.  What’s not to love.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/50166-in-the-mouth-of-madness-0-600-0-900-crop.jpg\"/></p> <p>This movie rules. A meta Ouroboros-ass cosmic horror about writing with Sam Neil chowing scenery, goopy practical monsters, and a glam rock soundtrack.  What’s not to love.</p>\n",
 				"date_published": "2026-01-25T22:08:45-05:00",
 				"url": "https://www.chrisdeluca.me/2026/01/25/in-the-mouth-of-madness.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -177,7 +185,7 @@
 				"id": "http://chrisd.micro.blog/2026/01/03/marty-supreme.html",
 				"title": "Marty Supreme, 2025 - ★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2026/1197499-marty-supreme-0-600-0-900-crop.jpg\"/></p> <p>Another safdie joint where one asshole burns his life to the ground and everyone yelling. I had a good time.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/1197499-marty-supreme-0-600-0-900-crop.jpg\"/></p> <p>Another safdie joint where one asshole burns his life to the ground and everyone yelling. I had a good time.</p>\n",
 				"date_published": "2026-01-03T21:44:41-05:00",
 				"url": "https://www.chrisdeluca.me/2026/01/03/marty-supreme.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -195,7 +203,7 @@
 				"id": "http://chrisd.micro.blog/2026/01/02/buckaroo-banzai-declassified.html",
 				"title": "Buckaroo Banzai Declassified, 2002",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2026/26948-buckaroo-banzai-declassified-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday January 1, 2026.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/26948-buckaroo-banzai-declassified-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday January 1, 2026.</p>\n",
 				"date_published": "2026-01-02T16:27:06-05:00",
 				"url": "https://www.chrisdeluca.me/2026/01/02/buckaroo-banzai-declassified.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -298,7 +306,7 @@
 				"id": "http://chrisd.micro.blog/2025/12/13/084923.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2025/lic.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A cityscape view features buildings of various heights and a distant bridge under a cloudy sky.\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/111874/2025/lic.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A cityscape view features buildings of various heights and a distant bridge under a cloudy sky.\">\n",
 				"date_published": "2025-12-13T08:49:23-05:00",
 				"url": "https://www.chrisdeluca.me/2025/12/13/084923.html",
 				"tags": ["photos"]
@@ -334,7 +342,7 @@
 				"id": "http://chrisd.micro.blog/2025/12/05/the-return-of-godzilla.html",
 				"title": "The Return of Godzilla, 1984",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/355180-the-return-of-godzilla-0-600-0-900-crop.jpg\"/></p> <p>The models, destruction, and monster suit look amazing. The ending is a wet noodle. The product is pretty fun.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2025/355180-the-return-of-godzilla-0-600-0-900-crop.jpg\"/></p> <p>The models, destruction, and monster suit look amazing. The ending is a wet noodle. The product is pretty fun.</p>\n",
 				"date_published": "2025-12-05T17:32:55-05:00",
 				"url": "https://www.chrisdeluca.me/2025/12/05/the-return-of-godzilla.html",
 				"tags": ["movies","photos","letterboxd"]
