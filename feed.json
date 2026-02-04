@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/02/04/ii-got-nothing-thanks-for.html",
+				
+				"content_html": "<p>I&hellip;I got nothing. Thanks for your attention to this crucial matter.</p>\n",
+				"content_text": "I...I got nothing. Thanks for your attention to this crucial matter.\n",
+				"date_published": "2026-02-04T16:35:45-05:00",
+				"url": "https://www.chrisdeluca.me/2026/02/04/ii-got-nothing-thanks-for.html"
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/02/03/i-voted-in-queens-district.html",
+				
+				"content_html": "<p>I voted in queens district 36’s special election to replace Zohran Mamdani’s seat. Felt good to participate in democracy. 🇺🇸</p>\n",
+				"content_text": "I voted in queens district 36’s special election to replace Zohran Mamdani’s seat. Felt good to participate in democracy. 🇺🇸 \n",
+				"date_published": "2026-02-03T20:44:44-05:00",
+				"url": "https://www.chrisdeluca.me/2026/02/03/i-voted-in-queens-district.html",
+				"tags": ["politics"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/02/03/rafureshia.html",
 				"title": "Rafureshia, 1995",
 				"content_html": "<!-- raw HTML omitted -->\n",
