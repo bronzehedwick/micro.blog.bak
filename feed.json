@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/02/13/today-i-learned-that-the.html",
+				
+				"content_html": "<p>Today I Learned that the <code>diff</code> utility has the <code>--ed</code> option, to output the diff as commands for <code>ed</code> to transform a file. I don&rsquo;t know that this would be actually useful over a pipeline with <code>patch</code> or similar, but I like it a lot. 💽</p>\n",
+				"content_text": "Today I Learned that the `diff` utility has the `--ed` option, to output the diff as commands for `ed` to transform a file. I don't know that this would be actually useful over a pipeline with `patch` or similar, but I like it a lot. 💽\n",
+				"date_published": "2026-02-13T12:34:33-05:00",
+				"url": "https://www.chrisdeluca.me/2026/02/13/today-i-learned-that-the.html",
+				"tags": ["tech"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/02/11/everyones-living-a-life-you.html",
 				
 				"content_html": "<p><a href=\"https://kottke.org/26/02/0048342-everyone%E2%80%99s-living-a-life-y\">Everyone’s living a life you know nothing about. Be kind&hellip;.</a> shared by Jason Kottke. Just the title alone.</p>\n",
