@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/02/16/finished-reading-the-dark-tower.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781501143519\">The Dark Tower I</a> by Stephen King 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781501143519/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Dark Tower I](https://micro.blog/books/9781501143519) by Stephen King 📚\n",
+				"date_published": "2026-02-16T15:23:40-05:00",
+				"url": "https://www.chrisdeluca.me/2026/02/16/finished-reading-the-dark-tower.html"
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/02/13/today-i-learned-that-the.html",
 				
 				"content_html": "<p>Today I Learned that the <code>diff</code> utility has the <code>--ed</code> option, to output the diff as commands for <code>ed</code> to transform a file. I don&rsquo;t know that this would be actually useful over a pipeline with <code>patch</code> or similar, but I like it a lot. 💽</p>\n",
