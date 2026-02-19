@@ -7,12 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/02/18/i-beat-tunic-last-night.html",
+				
+				"content_html": "<p>I beat <a href=\"https://en.wikipedia.org/wiki/Tunic_(video_game)\">Tunic</a> last night and got the good ending. What a charming, hard-ass game! My girlfriend had already 100% it, so she gave me little nudges and hints, mostly to avoid spending a lot of time down a wrong path, but I still feel accomplished. 🕹️</p>\n",
+				"content_text": "I beat [Tunic](https://en.wikipedia.org/wiki/Tunic_(video_game)) last night and got the good ending. What a charming, hard-ass game! My girlfriend had already 100% it, so she gave me little nudges and hints, mostly to avoid spending a lot of time down a wrong path, but I still feel accomplished. 🕹️\n",
+				"date_published": "2026-02-18T21:13:37-05:00",
+				"url": "https://www.chrisdeluca.me/2026/02/18/i-beat-tunic-last-night.html",
+				"tags": ["games"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/02/16/finished-reading-the-dark-tower.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781501143519\">The Dark Tower I</a> by Stephen King 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781501143519/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Dark Tower I](https://micro.blog/books/9781501143519) by Stephen King 📚\n",
 				"date_published": "2026-02-16T15:23:40-05:00",
-				"url": "https://www.chrisdeluca.me/2026/02/16/finished-reading-the-dark-tower.html"
+				"url": "https://www.chrisdeluca.me/2026/02/16/finished-reading-the-dark-tower.html",
+				"tags": ["reading"]
 			},
 			{
 				"id": "http://chrisd.micro.blog/2026/02/13/today-i-learned-that-the.html",
@@ -44,7 +54,7 @@
 				"id": "http://chrisd.micro.blog/2026/02/08/send-help.html",
 				"title": "Send Help, 2026 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2026/1084117-send-help-0-600-0-900-crop.jpg\"/></p> <p>What a good time at the movies. Saw it in 4DX, which is a gimmick but goofy fun. I don’t think the regal in Astoria’s scent device was working properly, because every smell cue just smelled like lemon pledge.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/1084117-send-help-0-600-0-900-crop.jpg\"/></p> <p>What a good time at the movies. Saw it in 4DX, which is a gimmick but goofy fun. I don’t think the regal in Astoria’s scent device was working properly, because every smell cue just smelled like lemon pledge.</p>\n",
 				"date_published": "2026-02-08T14:22:28-05:00",
 				"url": "https://www.chrisdeluca.me/2026/02/08/send-help.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -70,7 +80,7 @@
 				"id": "http://chrisd.micro.blog/2026/02/03/rafureshia.html",
 				"title": "Rafureshia, 1995",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2026/239837-rafflesia-0-600-0-900-crop.jpg\"/></p> <p>I can’t and won’t describe what I watched.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/239837-rafflesia-0-600-0-900-crop.jpg\"/></p> <p>I can’t and won’t describe what I watched.</p>\n",
 				"date_published": "2026-02-03T12:45:01-05:00",
 				"url": "https://www.chrisdeluca.me/2026/02/03/rafureshia.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -177,7 +187,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781501143519\">The Dark Tower I</a> by Stephen King 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781501143519/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Dark Tower I](https://micro.blog/books/9781501143519) by Stephen King 📚\n",
 				"date_published": "2026-01-21T00:48:45-05:00",
-				"url": "https://www.chrisdeluca.me/2026/01/21/currently-reading-the-dark-tower.html"
+				"url": "https://www.chrisdeluca.me/2026/01/21/currently-reading-the-dark-tower.html",
+				"tags": ["reading"]
 			},
 			{
 				"id": "http://chrisd.micro.blog/2026/01/19/started-reading-the-dark-tower.html",
@@ -185,7 +196,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n<p>Started reading: <a href=\"https://micro.blog/books/9781501143557\">The Dark Tower IV</a> by Stephen King 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781501143557/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nStarted reading: [The Dark Tower IV](https://micro.blog/books/9781501143557) by Stephen King 📚\n",
 				"date_published": "2026-01-19T22:51:14-05:00",
-				"url": "https://www.chrisdeluca.me/2026/01/19/started-reading-the-dark-tower.html"
+				"url": "https://www.chrisdeluca.me/2026/01/19/started-reading-the-dark-tower.html",
+				"tags": ["reading"]
 			},
 			{
 				"id": "http://chrisd.micro.blog/2026/01/19/finished-reading-the-dark-tower.html",
@@ -193,7 +205,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781501141416\">The Dark Tower III</a> by Stephen King 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781501141416/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Dark Tower III](https://micro.blog/books/9781501141416) by Stephen King 📚\n",
 				"date_published": "2026-01-19T17:15:12-05:00",
-				"url": "https://www.chrisdeluca.me/2026/01/19/finished-reading-the-dark-tower.html"
+				"url": "https://www.chrisdeluca.me/2026/01/19/finished-reading-the-dark-tower.html",
+				"tags": ["reading"]
 			},
 			{
 				"id": "http://chrisd.micro.blog/2026/01/19/cecil-b-demented.html",
@@ -300,7 +313,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n<p>Started reading: <a href=\"https://micro.blog/books/9780486784755\">Frankenstein</a> by Mary Shelley 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780486784755/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nStarted reading: [Frankenstein](https://micro.blog/books/9780486784755) by Mary Shelley 📚\n",
 				"date_published": "2026-01-02T16:24:46-05:00",
-				"url": "https://www.chrisdeluca.me/2026/01/02/started-reading-frankenstein-by-mary.html"
+				"url": "https://www.chrisdeluca.me/2026/01/02/started-reading-frankenstein-by-mary.html",
+				"tags": ["reading"]
 			},
 			{
 				"id": "http://chrisd.micro.blog/2026/01/02/year-in-books-for.html",
@@ -351,7 +365,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n<p>Started reading: <a href=\"https://micro.blog/books/9781501141416\">The Dark Tower III</a> by Stephen King 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781501141416/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nStarted reading: [The Dark Tower III](https://micro.blog/books/9781501141416) by Stephen King 📚\n",
 				"date_published": "2025-12-24T23:21:28-05:00",
-				"url": "https://www.chrisdeluca.me/2025/12/24/started-reading-the-dark-tower.html"
+				"url": "https://www.chrisdeluca.me/2025/12/24/started-reading-the-dark-tower.html",
+				"tags": ["reading"]
 			},
 			{
 				"id": "http://chrisd.micro.blog/2025/12/22/finished-reading-the-dark-tower.html",
