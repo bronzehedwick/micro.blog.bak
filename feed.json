@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/02/26/i-got-stuck-down-in.html",
+				
+				"content_html": "<p>I got stuck down in Florida for a week because of the storm in the northeast. Pretty stressful, but glad to have some time in the sun. Going to be flying back tomorrow. 🤞🛬</p>\n",
+				"content_text": "I got stuck down in Florida for a week because of the storm in the northeast. Pretty stressful, but glad to have some time in the sun. Going to be flying back tomorrow. 🤞🛬\n",
+				"date_published": "2026-02-26T15:04:29-05:00",
+				"url": "https://www.chrisdeluca.me/2026/02/26/i-got-stuck-down-in.html"
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/02/24/i-gave-a-talk-at.html",
+				
+				"content_html": "<p>I gave a talk at Florida Drupal Camp over the weekend. <a href=\"https://www.fldrupal.camp/session/advanced-css-custom-properties-components\">Advanced CSS Custom Properties for Components</a>. The camp was great, the organizers are terrific, and I think the session went well, despite some technical mistakes on my part. I&rsquo;ll post the session as a blog post soon.</p>\n",
+				"content_text": "I gave a talk at Florida Drupal Camp over the weekend. [Advanced CSS Custom Properties for Components](https://www.fldrupal.camp/session/advanced-css-custom-properties-components). The camp was great, the organizers are terrific, and I think the session went well, despite some technical mistakes on my part. I'll post the session as a blog post soon.\n",
+				"date_published": "2026-02-24T10:47:09-05:00",
+				"url": "https://www.chrisdeluca.me/2026/02/24/i-gave-a-talk-at.html",
+				"tags": ["tech"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/02/23/what-do-you-call-a.html",
 				
 				"content_html": "<p>What do you call a real dirt bag who you can’t get off your couch who has a really low voice?</p>\n<p>A schlub woofer.</p>\n",
