@@ -24,6 +24,19 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://www.chrisdeluca.me/2026/03/08/sucker-punch.html">Sucker Punch, 2011</a></h1>
+		
+
+		<a href="https://www.chrisdeluca.me/2026/03/08/sucker-punch.html" class="u-url"><time class="dt-published" datetime="2026-03-08 23:12:46 -0400">Mar 8, 2026</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 			<h1><a href="https://www.chrisdeluca.me/2026/03/08/advanced-css-custom-properties-for.html">Advanced CSS Custom Properties for Components</a></h1>
 		
 
@@ -32,134 +45,231 @@
 		<div class="e-content">
 			 <!-- raw HTML omitted -->
 <!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+<p>This post is based on a talk I gave at Florida Drupal Camp 2026. It’s my slides, with some extra writing for the parts I spoke through extemporaneously, formatted for the web.</p>
+<p>There’s a <a href="https://www.fldrupal.camp/session/advanced-css-custom-properties-components">full video recording</a>, and the full<br>
+<a href="https://codepen.io/collection/myWYqJ">Codepen demo collection</a>.</p>
+<!-- raw HTML omitted -->
+<p>Welcome to Advanced CSS Custom Properties for Components. They say that brevity is the soul of wit, and that goes double for titles, so welcome to my witless talk. Thank you for being here, genuinely.</p>
+<p>My name is Chris DeLuca, I&rsquo;m a senior front end developer working at Lullabot. Call me weird, but I love component-based development, and I&rsquo;m excited to share some of the things I&rsquo;ve learned about implementing them using CSS custom properties.</p>
+<h2 id="what-is-this">What is this?</h2>
+<p>Let&rsquo;s get into what we&rsquo;ll be getting into this afternoon. This talk covers some patterns for using CSS custom properties, or variables, to customize components. It will be pretty demo heavy. You might see some examples that directly apply to your work, or you may not. My hope is that the demos at least get your creativity flowing to start playing with some of these patterns in your day to day.</p>
+<p>Now, if you remember the 1998 American Godzilla movie, and why would you, there&rsquo;s a scene where a scientist, played by Matthew Broderick, has a plan to lure Godzilla into a trap with a massive amount of fish as bait.</p>
+<!-- raw HTML omitted -->
+<p>The army delivers the pile of fish, and Broderick looks at a guy with a wry smile, and goes, &ldquo;that&rsquo;s a lot of fish.&rdquo; There&rsquo;s a music cue, the whole thing.</p>
+<!-- raw HTML omitted -->
+<p>This massive, highly specific task has just been successfully carried out, at Broderick&rsquo;s explicit instruction, and exactly to his specifications, and yet…<em>he&rsquo;s</em> surprised.</p>
+<p>I refuse to be similarly surprised.</p>
+<p>Given the amount of live demos happening, something will inevitably go wrong. When that wrong thing does happen, and it will, to get past that awkward moment, I invite everyone here to yell, &ldquo;That&rsquo;s a lot of fish!&rdquo;. Can we try it now? Beautiful.</p>
+<p>The examples in this talk will use Twig and Single Directory Components, although the patterns we&rsquo;ll be talking about apply across component technologies.</p>
+<!-- raw HTML omitted -->
+<p>Quick aside, if you aren&rsquo;t using Single Directory Components in your Drupal projects, I highly recommend you do. They&rsquo;re good.</p>
+<!-- raw HTML omitted -->
+<h2 id="whats-a-component">What&rsquo;s a component?</h2>
+<p>Before we get to the patterns, I&rsquo;d like to take a little time to set the stage. We&rsquo;re starting basic. Perhaps too basic, but I always like to define our terms. I think it gives a solid base to build off of.</p>
+<p>So what is a component?</p>
+<p>There are many valid definitions, but for our purposes, we&rsquo;re saying a component is a chunk of code that:</p>
+<ol>
+<li>Is repeatable; it can be called multiple times from anywhere in the system.</li>
+<li>Is encapsulated; it always contains any code it needs—HTML, CSS, JS.</li>
+<li>Takes parameters; output can be manipulated via pre-defined inputs.</li>
+</ol>
+<p>That third one is really what this talk is all about. Although, if we&rsquo;re talking strictly, taking parameters isn&rsquo;t really necessary for a component to be a component. However, most components do take parameters, and that&rsquo;s where the complexity lies, so let&rsquo;s round up on this one.</p>
+<p>Let&rsquo;s dive into an example of how you might normally configure a component.</p>
+<p>We&rsquo;ll start with our good friend, the button. Boring, perhaps, but that&rsquo;s rude to say about any friend, much less a good one. Okay, what do we want to pay attention to here?</p>
+<p>The button&rsquo;s display stays the same, while the data changes depending on what parameters it is passed. Each time it&rsquo;s called, the button will have a different URL and text. Straightforward.</p>
+<p><img src="CleanShot%202026-02-10%20at%2021.46.29@2x.png" alt=""></p>
+<p>To implement this, we have <code>text</code> and <code>url</code> parameters, which is how we&rsquo;re passing the data to our button.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-twig" data-lang="twig"><span style="display:flex;"><span><span style="color:#75715e">{{</span> include<span style="color:#f92672">(</span><span style="color:#e6db74">&#39;my-theme:button&#39;</span><span style="color:#f92672">,</span> <span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>	text<span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;Hello, world!&#34;</span><span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>	url<span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;https://example.com&#34;</span><span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">})</span> <span style="color:#75715e">}}</span>
+</span></span></code></pre></div><p>Our button component can change its display as well, depending on the parameters we pass.</p>
+<p><img src="CleanShot%202026-02-10%20at%2021.44.35@2x.png" alt=""></p>
+<p>We can see that the button component accepts a <code>variation</code> parameter, and we can pass &ldquo;primary&rdquo;, &ldquo;secondary&rdquo;, or &ldquo;tertiary&rdquo; to it. Sometimes <code>variation</code> will be named something else, like <code>type</code>, or <code>style</code>, but the meaning is the same.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-twig" data-lang="twig"><span style="display:flex;"><span><span style="color:#75715e">{{</span> include<span style="color:#f92672">(</span><span style="color:#e6db74">&#39;my-theme:button&#39;</span><span style="color:#f92672">,</span> <span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>	variation<span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;primary&#34;</span><span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>	text<span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;Hello, world!&#34;</span><span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>	url<span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;https://example.com&#34;</span><span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">})</span> <span style="color:#75715e">}}</span>
+</span></span></code></pre></div><p>Our variation will set an HTML property, usually a <code>class</code>, so we can style the variations differently.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-twig" data-lang="twig"><span style="display:flex;"><span>&lt;a class=&#34;my-button my-button--<span style="color:#75715e">{{</span> variation <span style="color:#75715e">}}</span>&#34; href=&#34;<span style="color:#75715e">{{</span> url <span style="color:#75715e">}}</span>&#34;&gt;<span style="color:#75715e">{{</span> text <span style="color:#75715e">}}</span>&lt;/a&gt;
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>.<span style="color:#a6e22e">my-button</span> {
+</span></span><span style="display:flex;"><span>	<span style="color:#75715e">/* button code… */</span>
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">border</span>: <span style="color:#ae81ff">2</span><span style="color:#66d9ef">px</span> <span style="color:#66d9ef">solid</span> rgb(<span style="color:#ae81ff">231</span> <span style="color:#ae81ff">0</span> <span style="color:#ae81ff">119</span>);
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">background-color</span>: rgb(<span style="color:#ae81ff">231</span> <span style="color:#ae81ff">0</span> <span style="color:#ae81ff">119</span>);
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>.<span style="color:#a6e22e">my-button--secondary</span> {
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">background-color</span>: <span style="color:#66d9ef">transparent</span>;
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">color</span>: <span style="color:#66d9ef">black</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><!-- raw HTML omitted -->
+<p>This is good!</p>
+<p>I&rsquo;m not advocating for the fall of component variations. They&rsquo;re great! Using CSS Custom Properties doesn&rsquo;t supplant traditional variation-based customization. It works alongside variations. We&rsquo;ll talk about how they work together in just a little bit. For now, what are these mysterious CSS Custom Properties I keep speaking of?</p>
+<h2 id="what-are-css-custom-properties">What are CSS Custom Properties?</h2>
+<p>They&rsquo;re variables in CSS. They follow the cascade, and they&rsquo;re computed at runtime, and they can be redefined. These are three important qualities that we&rsquo;ll leverage to enhance our components.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>.<span style="color:#a6e22e">my-selector</span> {
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">color</span>: <span style="color:#a6e22e">var</span>(<span style="color:#f92672">--</span>primary<span style="color:#f92672">-</span><span style="color:#66d9ef">color</span>);
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>A common pattern is to set a lot of custom properties on the <code>:root</code> element. Values like font sizes, and colors, and spacing sizes, and all types of little chunks of design information that can be used throughout our system.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>:<span style="color:#a6e22e">root</span> {
+</span></span><span style="display:flex;"><span>	--primary-color: rgb(<span style="color:#ae81ff">231</span> <span style="color:#ae81ff">0</span> <span style="color:#ae81ff">119</span>); 
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>.<span style="color:#a6e22e">my-button</span> {
+</span></span><span style="display:flex;"><span>	<span style="color:#75715e">/* button code… */</span>
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">border</span>: <span style="color:#ae81ff">2</span><span style="color:#66d9ef">px</span> <span style="color:#66d9ef">solid</span> <span style="color:#a6e22e">var</span>(<span style="color:#f92672">--</span>primary<span style="color:#f92672">-</span><span style="color:#66d9ef">color</span>);
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">background-color</span>: <span style="color:#a6e22e">var</span>(<span style="color:#f92672">--</span>primary<span style="color:#f92672">-</span><span style="color:#66d9ef">color</span>);
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>This helps us build consistency throughout our website.</p>
+<!-- raw HTML omitted -->
+<p>Custom Properties set on the <code>:root</code> are available to use everywhere, but are centrally managed.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>.<span style="color:#a6e22e">my-blockquote</span> {
+</span></span><span style="display:flex;"><span>	border-inline-start: <span style="color:#ae81ff">4</span><span style="color:#66d9ef">px</span> <span style="color:#66d9ef">solid</span> <span style="color:#a6e22e">var</span>(<span style="color:#f92672">--</span>primary<span style="color:#f92672">-</span><span style="color:#66d9ef">color</span>);
+</span></span><span style="display:flex;"><span>	padding-inline-start: <span style="color:#ae81ff">2</span><span style="color:#66d9ef">ch</span>;
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">font-family</span>: <span style="color:#a6e22e">var</span>(<span style="color:#f92672">--</span>font<span style="color:#f92672">-</span><span style="color:#66d9ef">sans-serif</span>);
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>.<span style="color:#a6e22e">my-blockquote</span> <span style="color:#f92672">&gt;</span> <span style="color:#f92672">*</span> {
+</span></span><span style="display:flex;"><span>	margin-block: <span style="color:#a6e22e">var</span>(<span style="color:#f92672">--</span>spacing<span style="color:#f92672">-</span><span style="color:#66d9ef">vertical</span><span style="color:#f92672">-</span>rhythm) <span style="color:#ae81ff">0</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>The <code>:root</code> pseudo-selector is the highest parent of the page, so setting properties there guarantees that those custom properties can be accessed anywhere else on the page. This saves us some work if the design needs to be tweaked. Now, we only have to change the value in one place, rather than in every place that value is used.</p>
+<p>In the following demo, we’re reusing several custom properties across two components.</p>
+<!-- raw HTML omitted -->
+<p>This is also good!</p>
+<p>Setting Custom Properties on the <code>:root</code> to make them globally available is incredibly useful, for all the reasons I just mentioned. This pattern is great!</p>
+<p>However, that&rsquo;s where we often stop. As good as this pattern is, it kind of bothers me if this is all we end up using Custom Properties for.</p>
+<h2 id="re-defining-custom-properties">Re-defining Custom Properties</h2>
+<p>We&rsquo;re essentially treating custom properties as constants. A constant is similar to a variable, but its value never changes during the runtime of the program.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">myConst</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Hello&#34;</span>;
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">myConst</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Goodbye&#34;</span>; <span style="color:#75715e">// illegal!
+</span></span></span></code></pre></div><p>But Custom Properties have so much more to offer. They&rsquo;re more dynamic, more flexible, more, dare I say, compelling. Custom Properties are…variables.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>:<span style="color:#a6e22e">root</span> {
+</span></span><span style="display:flex;"><span>	--primary-color: <span style="color:#66d9ef">green</span>;
+</span></span><span style="display:flex;"><span>	--primary-color: <span style="color:#66d9ef">red</span>; <span style="color:#75715e">/* legal! */</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>One of the important properties of Custom Properties I mentioned earlier was that their value can be re-defined. Sure, but how is that useful? In our example here, <code>--primary-color</code> will be <code>red</code>, but…who cares?</p>
+<p>Let&rsquo;s go back to our button example.</p>
+<!-- raw HTML omitted -->
+<p>We&rsquo;re using Custom Properties as actual variables, overriding them inside their selector. We&rsquo;re still leveraging traditional variations and global Custom Properties set on the <code>:root</code>. In fact, not only are all these approaches living in harmony with each other, we&rsquo;re integrating them together.</p>
+<p>It also offers a clear API for extensions in the future, showing which parts are meant to be changed, and which parts should be more stable.</p>
+<p>Okay, that works, but it&rsquo;s not too much different than writing CSS without re-defined custom properties.</p>
+<p>Let&rsquo;s say you have a landing page type, where editors can configure which components appear in a list, and in which order, maybe using Layout Builder, or Paragraphs, or Drupal Canvas.</p>
+<p>Editors place components into sections, which can have either a light or dark background. The components inside need to be styled to accommodate both color schemes.</p>
+<p>Custom Properties offer a nice way to solve this.</p>
+<p>Remember that Custom Properties follow the cascade. So we can re-define the property on a component parent, and have the value flow down.</p>
+<!-- raw HTML omitted -->
+<p>In this demo, we have two section types, one with a light background, and one with a dark background. Components inside these sections need to change based on the color. We do that by setting Custom Properties on the section, and utilizing those values in the cascade.</p>
+<p>The code is simple and clear. If we need to support a new background color, all we need to do is re-define the custom properties in a new selector.</p>
+<h2 id="custom-properties-vs-variations">Custom Properties vs Variations</h2>
+<p>I think of these as two separate, quasi-related concepts. Both are used to customize components. Custom properties target a single property, whereas a variation is a collection of properties, which can themselves be a custom property. Both are also nice API surfaces for other developers to leverage.</p>
+<p>I reach for a variation when there&rsquo;s a larger function the component needs to achieve. I reach for Custom Properties when I need granular control. Both of these, as we&rsquo;ve seen, can and do work well together.</p>
+<h2 id="the-complexity-story">The complexity story</h2>
+<p>I think this pattern really shines when the system gets more complicated. And don&rsquo;t they all?</p>
+<p>Imagine you have a component that needs <code>3rem</code> padding on either side.</p>
+<p>No problem. You&rsquo;re done before you wake up.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>.<span style="color:#a6e22e">my-component</span> {
+</span></span><span style="display:flex;"><span>	padding-inline: <span style="color:#ae81ff">3</span><span style="color:#66d9ef">rem</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>Now, imagine that we need <code>3rem</code> padding on the left and right for every component, and that the value should be consistent across all components. And there&rsquo;s fifty of them.</p>
+<p>A bit of legwork, but no problem. Add a custom property to the <code>:root</code>, and apply it to every component.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>:<span style="color:#a6e22e">root</span> {
+</span></span><span style="display:flex;"><span>	--component-spacing: <span style="color:#ae81ff">3</span><span style="color:#66d9ef">rem</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>.<span style="color:#a6e22e">my-component</span> {
+</span></span><span style="display:flex;"><span>	padding-inline: <span style="color:#a6e22e">var</span>(<span style="color:#f92672">--</span>component<span style="color:#f92672">-</span>spacing);
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>.<span style="color:#a6e22e">my-other-component</span> {
+</span></span><span style="display:flex;"><span>	padding-inline: <span style="color:#a6e22e">var</span>(<span style="color:#f92672">--</span>component<span style="color:#f92672">-</span>spacing);
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">/* etc */</span>
+</span></span></code></pre></div><p>Now, imagine that this padding treatment is only for landing pages. On text heavy pages, the components have less room, so they need to have only <code>2rem</code> of padding.</p>
+<p>No problem. You want to stay consistent, so you add a variation, and override the component. You&rsquo;ll need to do that for all fifty components, and that feels heavy for such a small change, but it works.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>:<span style="color:#a6e22e">root</span> {
+</span></span><span style="display:flex;"><span>	--component-spacing: <span style="color:#ae81ff">3</span><span style="color:#66d9ef">rem</span>;
+</span></span><span style="display:flex;"><span>	--component-spacing-small: <span style="color:#ae81ff">2</span><span style="color:#66d9ef">rem</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>.<span style="color:#a6e22e">my-component--small-padding</span> {
+</span></span><span style="display:flex;"><span>	padding-inline: <span style="color:#a6e22e">var</span>(<span style="color:#f92672">--</span>component<span style="color:#f92672">-</span>spacing<span style="color:#f92672">-</span><span style="color:#66d9ef">small</span>);
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>.<span style="color:#a6e22e">my-component--small-padding</span> {
+</span></span><span style="display:flex;"><span>	padding-inline: <span style="color:#a6e22e">var</span>(<span style="color:#f92672">--</span>component<span style="color:#f92672">-</span>spacing<span style="color:#f92672">-</span><span style="color:#66d9ef">small</span>);
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">/* etc */</span>
+</span></span></code></pre></div><p>Now, imagine that all these components can also appear in a sidebar. That&rsquo;s even more space constrained, so components there can only have <code>1rem</code> of padding.</p>
+<p>No…problem? That&rsquo;s another variation for all fifty components, for the same little sized change. But, screw it, throw it on the pile. Next!</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>:<span style="color:#a6e22e">root</span> {
+</span></span><span style="display:flex;"><span>	--component-spacing: <span style="color:#ae81ff">3</span><span style="color:#66d9ef">rem</span>;
+</span></span><span style="display:flex;"><span>	--component-spacing-small: <span style="color:#ae81ff">2</span><span style="color:#66d9ef">rem</span>;
+</span></span><span style="display:flex;"><span>	--component-spacing-extra-small: <span style="color:#ae81ff">1</span><span style="color:#66d9ef">rem</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>.<span style="color:#a6e22e">my-component--extra-small-padding</span> {
+</span></span><span style="display:flex;"><span>	padding-inline: <span style="color:#a6e22e">var</span>(<span style="color:#f92672">--</span>component<span style="color:#f92672">-</span>spacing<span style="color:#f92672">-</span>extra<span style="color:#f92672">-</span><span style="color:#66d9ef">small</span>);
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>.<span style="color:#a6e22e">my-component--extra-small-padding</span> {
+</span></span><span style="display:flex;"><span>	padding-inline: <span style="color:#a6e22e">var</span>(<span style="color:#f92672">--</span>component<span style="color:#f92672">-</span>spacing<span style="color:#f92672">-</span>extra<span style="color:#f92672">-</span><span style="color:#66d9ef">small</span>);
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">/* etc */</span>
+</span></span></code></pre></div><p>Now, imagine that for some of these spots, the template isn&rsquo;t always aware of its context, meaning we can&rsquo;t pass in the right variation for every place a component will render. Unrealistic, I know.</p>
+<p>Okay, not great, but you know what?</p>
+<p>No problem. You target a unique selector that wraps the components that can&rsquo;t get the right variation, and add it to the variation styles. It&rsquo;s not pretty, but it works.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>.<span style="color:#a6e22e">my-place-that-cant-get-a-variation</span> .<span style="color:#a6e22e">my-component</span><span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>.<span style="color:#a6e22e">my-component--my-variation</span> {
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">/* etc */</span>
+</span></span></code></pre></div><p>You do have to do that for every one of the fifty components, however. Your code is starting to get bloated and messy. The chance for styles to end up where they shouldn&rsquo;t and other display bugs just shot up.</p>
+<p>Now, imagine that this variation dead-zone affects every component placement type we&rsquo;ve coded: landing pages, text pages, and sidebars. That means you&rsquo;ll need to manage this extra code for every variation. That bit of extra boilerplate code is ballooning across all fifty components.</p>
+<p>Now, imagine that this site will continue to change. More components, more places to put them, more variations. More more more.</p>
+<p>Now…imagine all that is real.</p>
+<p>No; problem. That&rsquo;s a bad time.</p>
+<p>Or, you could set a few custom properties on every component once, define a default on the <code>:root</code>, then re-define them on a parent for each placement type, bypassing the whole issue.</p>
+<!-- raw HTML omitted -->
+<h2 id="custom-property-math">Custom property math</h2>
+<p>Because Custom Properties are computed at runtime, they can  be included in a <code>calc()</code> function like any other value. Or <code>tan()</code> or <code>sin()</code> functions, but let&rsquo;s stay away from trigonometry and stick to the friendly <code>calc()</code>. Computing custom properties can be really useful when there&rsquo;s a set of related values that share a common base.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>.<span style="color:#a6e22e">my-component</span> {
+</span></span><span style="display:flex;"><span>	padding-block: <span style="color:#a6e22e">var</span>(<span style="color:#f92672">--</span>spacing<span style="color:#f92672">-</span>base);
+</span></span><span style="display:flex;"><span>	padding-inline: calc(<span style="color:#a6e22e">var</span>(<span style="color:#f92672">--</span>spacing<span style="color:#f92672">-</span>base) <span style="color:#f92672">/</span> <span style="color:#ae81ff">2</span>));
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>For example, think of a table component that has multiple settings for how much whitespace is contained in each cell.</p>
+<!-- raw HTML omitted -->
+<p>Here, we redefine the custom property with a bit of JavaScript that injects the variable inline, and then compute the rest of the white space off that value, keeping a tight relationship between space with one setting.</p>
+<h2 id="one-more-thing">One more thing</h2>
+<p>Custom Properties provide, I think, a compelling API surface for others to customize your components in flexible ways that you still define. All flexibility comes with a cost. We know this. Misuse of the system can and will occur given enough time and attention. It won&rsquo;t solve your life, but one way Custom Properties can help is by type checking.</p>
+<p>Yes, it&rsquo;s true. We can have more control over a custom property by defining it with <code>@property</code> method.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span><span style="color:#f92672">[</span>@<span style="color:#66d9ef">property</span><span style="color:#f92672">](</span><span style="color:#f92672">https</span><span style="color:#f92672">://</span><span style="color:#f92672">micro</span>.<span style="color:#a6e22e">blog</span><span style="color:#f92672">/</span><span style="color:#f92672">property</span><span style="color:#f92672">)</span> <span style="color:#f92672">--rotation</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">syntax</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;&lt;angle&gt;&#39;</span><span style="color:#f92672">;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">inherits</span><span style="color:#f92672">:</span> <span style="color:#f92672">true</span><span style="color:#f92672">;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">initial-value</span><span style="color:#f92672">:</span> <span style="color:#f92672">0deg</span><span style="color:#f92672">;</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>This is more verbose than the straightforward assignments we&rsquo;ve been doing, but it has advantages.</p>
+<p>First, it is not set on a scope, like <code>:root</code> or another selector. You&rsquo;re just registering the property, and it can be redefined anywhere.</p>
+<p>Second, you can tell the property which types it will accept via <code>syntax</code>. We&rsquo;re showing a single type here, but multiple can be defined. Any value assigned to the property that are of a different type will be discarded, and an error will be shown in the browser dev tools. This is not possible when you define a Custom Property otherwise. Those properties will accept any value, even if it is invalid for the use case. This is especially useful for creating a pit of success for other developers, and gets more useful the larger the system is and the larger the user base is. Think: a design system.</p>
+<p>There&rsquo;s two other <code>@property</code> aspects here: <code>inherits</code> and <code>initial-value</code>. Inherits is <code>true</code> by default, and controls whether children will get this Custom Property when it&rsquo;s set on a parent. I&rsquo;ve never personally found a real use case for turning off inheritance, but if you know of one, please yell at me after the session!</p>
+<p>Finally, there&rsquo;s initial value. It does what it says on the tin. Whatever value you set here, will be the value of the Custom Property, unless otherwise redefined.</p>
+<!-- raw HTML omitted -->
+<p>In the second promo in the example above, the “New” sticker isn’t rotated correctly. If you inspect that element in your browser dev tools, you’ll see that the <code>--rotation</code> Custom Property shows a helpful warning: <!-- raw HTML omitted -->Invalid property value: expected type <!-- raw HTML omitted --><!-- raw HTML omitted -->. This is caused by passing a <code>px</code> value instead of an angle, like <code>deg</code>.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>So what happened just now when you read this article? I made the case that CSS Custom Properties:</p>
+<ul>
+<li>Are CSS variables</li>
+<li>Are not a replacement for component variations</li>
+<li>Work in harmony with variations</li>
+<li>Can be used globally to create consistency</li>
+<li>Can be re-defined to save effort</li>
+<li>Shine at scale</li>
+<li>Can be used in math</li>
+<li>Can be type checked</li>
+</ul>
+<p>There you have it. So long, and thanks for all the fish!</p>
 
 		</div>
 	  </div>
@@ -4146,6 +4256,19 @@ FACT: Baldness is caused by too little hair.</p>
 		
 
 		<a href="https://www.chrisdeluca.me/2025/03/08/puppet-master.html" class="u-url"><time class="dt-published" datetime="2025-03-08 21:32:40 -0500">Mar 8, 2025</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://www.chrisdeluca.me/2025/03/08/puppetmaster.html">Puppetmaster, 1989</a></h1>
+		
+
+		<a href="https://www.chrisdeluca.me/2025/03/08/puppetmaster.html" class="u-url"><time class="dt-published" datetime="2025-03-08 21:32:40 -0500">Mar 8, 2025</time></a>
 
 		<div class="e-content">
 			 <!-- raw HTML omitted -->
