@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/03/15/a-friend-didnt-want-their.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>A friend didn&rsquo;t want their Aloe anymore, so I took it home. Looking pretty good so far, I think.</p>\n",
+				"content_text": "<img src=\"uploads/2026/img-7267.jpg\" width=\"600\" height=\"731\" alt=\"Auto-generated description: A potted aloe vera plant with long green leaves sits on a windowsill next to a candle.\">\n\nA friend didn't want their Aloe anymore, so I took it home. Looking pretty good so far, I think.\n",
+				"date_published": "2026-03-15T17:04:23-04:00",
+				"url": "https://www.chrisdeluca.me/2026/03/15/a-friend-didnt-want-their.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/03/12/mel-brooks-the-year-old.html",
+				"title": "Mel Brooks: The 99 Year Old Man!, 2026",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2026/1486107-mel-brooks-the-99-year-old-man-0-600-0-900-crop.jpg\"/></p> <p>Pure joy.</p>\n",
+				"date_published": "2026-03-12T21:06:12-04:00",
+				"url": "https://www.chrisdeluca.me/2026/03/12/mel-brooks-the-year-old.html",
+				"tags": ["movies","photos","letterboxd"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/03/12/i-bought-every-studio-fugazi.html",
 				
 				"content_html": "<p>I bought every studio Fugazi album on Bandcamp, along with the new Albini Sessions.  No regrets. 🎵</p>\n",
@@ -55,7 +73,7 @@
 				"id": "http://chrisd.micro.blog/2026/03/01/the-brave-little-toaster.html",
 				"title": "The Brave Little Toaster, 1987",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2026/39344-the-brave-little-toaster-0-600-0-900-crop.jpg\"/></p> <p>I had only seen a small part of this movie when I was maybe six, from under the couch. Really fun to revisit as an adult. I enjoyed it legitimately, but it was also dare I say healing to that little kid who was so scared of it. I think what confused and scared me the most as a child was how mean the characters are to each other. And man does this thing deal with DARK themes. Some banger van dyke parks tunes as well.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/39344-the-brave-little-toaster-0-600-0-900-crop.jpg\"/></p> <p>I had only seen a small part of this movie when I was maybe six, from under the couch. Really fun to revisit as an adult. I enjoyed it legitimately, but it was also dare I say healing to that little kid who was so scared of it. I think what confused and scared me the most as a child was how mean the characters are to each other. And man does this thing deal with DARK themes. Some banger van dyke parks tunes as well.</p>\n",
 				"date_published": "2026-03-01T13:51:59-04:00",
 				"url": "https://www.chrisdeluca.me/2026/03/01/the-brave-little-toaster.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -194,7 +212,7 @@
 				"id": "http://chrisd.micro.blog/2026/01/28/mortal-kombat.html",
 				"title": "Mortal Kombat, 1995",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/47281-mortal-kombat-0-600-0-900-crop.jpg\"/></p> <p>Let’s go.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/47281-mortal-kombat-0-600-0-900-crop.jpg\"/></p> <p>Let’s go.</p>\n",
 				"date_published": "2026-01-28T22:59:05-05:00",
 				"url": "https://www.chrisdeluca.me/2026/01/28/mortal-kombat.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -229,7 +247,7 @@
 				"id": "http://chrisd.micro.blog/2026/01/26/interstella-the-tory-of-the.html",
 				"title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem, 2003",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/45654-interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem-0-600-0-900-crop.jpg\"/></p> <p>Such a cool movie for a perfect album.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/45654-interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem-0-600-0-900-crop.jpg\"/></p> <p>Such a cool movie for a perfect album.</p>\n",
 				"date_published": "2026-01-26T00:04:45-05:00",
 				"url": "https://www.chrisdeluca.me/2026/01/26/interstella-the-tory-of-the.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -294,7 +312,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781501141416\">The Dark Tower III</a> by Stephen King 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781501141416/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Dark Tower III](https://micro.blog/books/9781501141416) by Stephen King 📚\n",
 				"date_published": "2026-01-19T17:15:12-05:00",
-				"url": "https://www.chrisdeluca.me/2026/01/19/finished-reading-the-dark-tower.html"
+				"url": "https://www.chrisdeluca.me/2026/01/19/finished-reading-the-dark-tower.html",
+				"tags": ["reading"]
 			},
 			{
 				"id": "http://chrisd.micro.blog/2026/01/19/cecil-b-demented.html",
@@ -363,7 +382,7 @@
 				"id": "http://chrisd.micro.blog/2026/01/03/marty-supreme.html",
 				"title": "Marty Supreme, 2025 - ★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2026/1197499-marty-supreme-0-600-0-900-crop.jpg\"/></p> <p>Another safdie joint where one asshole burns his life to the ground and everyone yelling. I had a good time.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/1197499-marty-supreme-0-600-0-900-crop.jpg\"/></p> <p>Another safdie joint where one asshole burns his life to the ground and everyone yelling. I had a good time.</p>\n",
 				"date_published": "2026-01-03T21:44:41-05:00",
 				"url": "https://www.chrisdeluca.me/2026/01/03/marty-supreme.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -381,7 +400,7 @@
 				"id": "http://chrisd.micro.blog/2026/01/02/buckaroo-banzai-declassified.html",
 				"title": "Buckaroo Banzai Declassified, 2002",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2026/26948-buckaroo-banzai-declassified-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday January 1, 2026.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/26948-buckaroo-banzai-declassified-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday January 1, 2026.</p>\n",
 				"date_published": "2026-01-02T16:27:06-05:00",
 				"url": "https://www.chrisdeluca.me/2026/01/02/buckaroo-banzai-declassified.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -401,7 +420,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n<p>Started reading: <a href=\"https://micro.blog/books/9780486784755\">Frankenstein</a> by Mary Shelley 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9780486784755/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nStarted reading: [Frankenstein](https://micro.blog/books/9780486784755) by Mary Shelley 📚\n",
 				"date_published": "2026-01-02T16:24:46-05:00",
-				"url": "https://www.chrisdeluca.me/2026/01/02/started-reading-frankenstein-by-mary.html"
+				"url": "https://www.chrisdeluca.me/2026/01/02/started-reading-frankenstein-by-mary.html",
+				"tags": ["reading"]
 			},
 			{
 				"id": "http://chrisd.micro.blog/2026/01/02/year-in-books-for.html",
@@ -452,7 +472,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n<p>Started reading: <a href=\"https://micro.blog/books/9781501141416\">The Dark Tower III</a> by Stephen King 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781501141416/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nStarted reading: [The Dark Tower III](https://micro.blog/books/9781501141416) by Stephen King 📚\n",
 				"date_published": "2025-12-24T23:21:28-05:00",
-				"url": "https://www.chrisdeluca.me/2025/12/24/started-reading-the-dark-tower.html"
+				"url": "https://www.chrisdeluca.me/2025/12/24/started-reading-the-dark-tower.html",
+				"tags": ["reading"]
 			},
 			{
 				"id": "http://chrisd.micro.blog/2025/12/22/finished-reading-the-dark-tower.html",
@@ -484,7 +505,7 @@
 				"id": "http://chrisd.micro.blog/2025/12/13/084923.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2025/lic.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A cityscape view features buildings of various heights and a distant bridge under a cloudy sky.\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/111874/2025/lic.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A cityscape view features buildings of various heights and a distant bridge under a cloudy sky.\">\n",
 				"date_published": "2025-12-13T08:49:23-05:00",
 				"url": "https://www.chrisdeluca.me/2025/12/13/084923.html",
 				"tags": ["photos"]
@@ -520,7 +541,7 @@
 				"id": "http://chrisd.micro.blog/2025/12/05/the-return-of-godzilla.html",
 				"title": "The Return of Godzilla, 1984",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/355180-the-return-of-godzilla-0-600-0-900-crop.jpg\"/></p> <p>The models, destruction, and monster suit look amazing. The ending is a wet noodle. The product is pretty fun.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2025/355180-the-return-of-godzilla-0-600-0-900-crop.jpg\"/></p> <p>The models, destruction, and monster suit look amazing. The ending is a wet noodle. The product is pretty fun.</p>\n",
 				"date_published": "2025-12-05T17:32:55-05:00",
 				"url": "https://www.chrisdeluca.me/2025/12/05/the-return-of-godzilla.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -2769,6 +2790,15 @@
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2025/34908-puppet-master-0-600-0-900-crop.jpg\"/></p> <p>Some of those guys were acting. Everyone of those guys was a sleaze.</p>\n",
 				"date_published": "2025-03-08T21:32:40-05:00",
 				"url": "https://www.chrisdeluca.me/2025/03/08/puppet-master.html",
+				"tags": ["movies","photos","letterboxd"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2025/03/08/puppetmaster.html",
+				"title": "Puppetmaster, 1989",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/ea6889215d.jpg\"/></p> <p>Some of those guys were acting. Everyone of those guys was a sleaze.</p>\n",
+				"date_published": "2025-03-08T21:32:40-05:00",
+				"url": "https://www.chrisdeluca.me/2025/03/08/puppetmaster.html",
 				"tags": ["movies","photos","letterboxd"]
 			},
 			{
