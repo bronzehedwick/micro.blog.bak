@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/04/12/i-feel-like-think-again.html",
+				
+				"content_html": "<p>I feel like &ldquo;think again&rdquo; advertising contains an implied insult.</p>\n<p>&ldquo;Think JustSalad <em>just</em> has salad? Think again!…idiot.&rdquo;</p>\n",
+				"content_text": "I feel like \"think again\" advertising contains an implied insult.\n\n\"Think JustSalad *just* has salad? Think again!…idiot.\"\n",
+				"date_published": "2026-04-12T10:23:42-04:00",
+				"url": "https://www.chrisdeluca.me/2026/04/12/i-feel-like-think-again.html"
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/04/12/from-miriam-suzanne-on-mastodon.html",
 				
 				"content_html": "<p>From <a href=\"https://front-end.social/@mia/116389740643694963\">Miriam Suzanne</a> on Mastodon.</p>\n<blockquote>\n<p>There are still absolutely beautiful websites using basic css and html with little or no js&hellip;</p>\n<p>What we&rsquo;ve lost, it seems to me, is the broad indie pipeline to both learning and socializing (and socially learning).</p>\n<p>partly because we who learned it 20yrs ago have landed in more specialized/complex jobs.</p>\n</blockquote>\n<p>As part of that ~20 year ago learning, I completely agree. The internet culture does not default to the web, the open thing we all fell in love with. The only way most folks interact online is through corporate captured channels. Raising this, the response is often some form of, “yeah and the sky is blue”. It feels that inevitable. But as we continually learn, change is a constant. What end of the scale do you want to press on?</p>\n",
@@ -89,7 +97,7 @@
 				"id": "http://chrisd.micro.blog/2026/03/12/mel-brooks-the-year-old.html",
 				"title": "Mel Brooks: The 99 Year Old Man!, 2026",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2026/1486107-mel-brooks-the-99-year-old-man-0-600-0-900-crop.jpg\"/></p> <p>Pure joy.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/1486107-mel-brooks-the-99-year-old-man-0-600-0-900-crop.jpg\"/></p> <p>Pure joy.</p>\n",
 				"date_published": "2026-03-12T21:06:12-04:00",
 				"url": "https://www.chrisdeluca.me/2026/03/12/mel-brooks-the-year-old.html",
 				"tags": ["movies","photos","letterboxd"]
