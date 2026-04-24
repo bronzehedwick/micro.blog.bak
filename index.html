@@ -24,6 +24,38 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://www.chrisdeluca.me/2026/04/24/aligning-css-grid-area-columns.html">Aligning CSS Grid area columns</a></h1>
+		
+
+		<a href="https://www.chrisdeluca.me/2026/04/24/aligning-css-grid-area-columns.html" class="u-url"><time class="dt-published" datetime="2026-04-24 14:08:34 -0400">Apr 24, 2026</time></a>
+
+		<div class="e-content">
+			 <p>I was looking for a quick, minimal way of aligning columns in <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-template-areas"><code>grid-template-areas</code></a> values, and found something more generic and, I think, useful—the venerable <a href="https://www.unix.com/man-page/osx/1/column/">column</a> command.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;&#39;image title title tag&#39;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">                   &#39;image link link tag&#39;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">                   &#39;image description description cta&#39;&#34;</span>|column -t
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Output:</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># &#39;image  title        title        tag&#39;</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># &#39;image  link         link         tag&#39;</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># &#39;image  description  description  cta&#39;</span>
+</span></span></code></pre></div><p>That&rsquo;s a little unwieldy, so I used <code>column -t</code> as a <a href="https://www.vim.org/">Vim</a>/<a href="https://neovim.io/">Neovim</a> <a href="https://vimtricks.wiki/posts/visual-filter-through-shell">filter</a>.</p>
+<p>It turns this:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>  <span style="color:#f92672">grid-template-areas</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#e6db74">&#39;image title title tag&#39;</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#e6db74">&#39;image link link tag&#39;</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#e6db74">&#39;image description description cta&#39;</span><span style="color:#f92672">;</span>
+</span></span></code></pre></div><p>Into this:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>  <span style="color:#f92672">grid-template-areas</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#e6db74">&#39;image  title        title        tag&#39;</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#e6db74">&#39;image  link         link         tag&#39;</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#e6db74">&#39;image  description  description  cta&#39;</span><span style="color:#f92672">;</span>
+</span></span></code></pre></div><p>Not a new insight, but new to me!</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 
 		<a href="https://www.chrisdeluca.me/2026/04/19/why-nearly-every-farmer-who.html" class="u-url"><time class="dt-published" datetime="2026-04-19 17:30:11 -0400">Apr 19, 2026</time></a>
 
