@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/05/02/hxan.html",
+				"title": "Häxan, 1922",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2026/8871-haxan-0-600-0-900-crop.jpg\"/></p> <p>Impressive visuals for the time, and slow paced. The opening segment is all still images with text boxes. The conclusion draws some I think for the time progressive parallels between witchcraft persecution and the then modern treatment of women, but it sounds ignorant from now modern knowledge. Interesting from a history of film perspective, and there’s some great shots of nuns sticking out their tongues.</p>\n",
+				"date_published": "2026-05-02T08:16:36-04:00",
+				"url": "https://www.chrisdeluca.me/2026/05/02/hxan.html",
+				"tags": ["movies","photos","letterboxd"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/04/29/i-found-a-little-command.html",
+				
+				"content_html": "<p>I found a little command line program, <a href=\"https://github.com/acamino/ftb\">ftb</a>, to align markdown tables. Very useful. I use it as a Neovim filter, as I <a href=\"/2026/04/24/aligning-css-grid-area-columns.html\">recently blogged about</a>. 💽</p>\n",
+				"content_text": "I found a little command line program, [ftb](https://github.com/acamino/ftb), to align markdown tables. Very useful. I use it as a Neovim filter, as I [recently blogged about](/2026/04/24/aligning-css-grid-area-columns.html). 💽\n",
+				"date_published": "2026-04-29T16:54:28-04:00",
+				"url": "https://www.chrisdeluca.me/2026/04/29/i-found-a-little-command.html",
+				"tags": ["tech"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/04/29/listening-to-a-love-bootleg.html",
 				
 				"content_html": "<p>Listening to a <a href=\"https://albumsthatshouldexist.blogspot.com/2026/04/love-fillmore-west-san-francisco-ca-11.html\">1970 Love bootleg at the Fillmore West</a>, that Paul of Albums That Should Exist cleaned up. It&rsquo;s the seventies, so Arthur Lee is heavier, more Hendrix influenced than the insurmountable &ldquo;Forever Changes&rdquo;. The show is pretty great. 🎵</p>\n",
