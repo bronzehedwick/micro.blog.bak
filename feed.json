@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/05/15/clue.html",
+				"title": "Clue, 1985",
+				"content_html": "<p><img src=\"uploads/2026/42531-clue-0-600-0-900-crop.jpg\"/></p> <p>This movie is so much fun.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/42531-clue-0-600-0-900-crop.jpg\"/></p> <p>This movie is so much fun.</p>\n",
+				"date_published": "2026-05-15T21:12:59-04:00",
+				"url": "https://www.chrisdeluca.me/2026/05/15/clue.html",
+				"tags": ["movies","photos","letterboxd"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/05/12/the-rhododendrons-are-popping.html",
+				
+				"content_html": "<p>The Rhododendron&rsquo;s are popping.</p>\n<img src=\"uploads/2026/rhododendron.jpg\" alt=\"A close up of a bright red rhododendron.\">\n",
+				"content_text": "The Rhododendron's are popping.\n\n<img src=\"uploads/2026/rhododendron.jpg\" alt=\"A close up of a bright red rhododendron.\">\n",
+				"date_published": "2026-05-12T11:03:25-04:00",
+				"url": "https://www.chrisdeluca.me/2026/05/12/the-rhododendrons-are-popping.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/05/11/playing-with-image-processing-in.html",
 				
 				"content_html": "<p>Playing with image processing in Astoria park.</p>\n<img src=\"uploads/2026/night-sky.jpg\" width=\"600\" height=\"458\" alt=\"Silhouetted trees and foliage are framed against a moody, cloudy night sky.\">\n",
@@ -14,6 +32,15 @@
 				"date_published": "2026-05-11T20:33:26-04:00",
 				"url": "https://www.chrisdeluca.me/2026/05/11/playing-with-image-processing-in.html",
 				"tags": ["photos"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/05/11/road-house.html",
+				"title": "Road House, 1989",
+				"content_html": "<p><img src=\"uploads/2026/46514-road-house-0-600-0-900-crop.jpg\"/></p> <p>Never seen it before. Dumb fun. I'm in the \"Swayze is charismatic\" camp.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/46514-road-house-0-600-0-900-crop.jpg\"/></p> <p>Never seen it before. Dumb fun. I'm in the \"Swayze is charismatic\" camp.</p>\n",
+				"date_published": "2026-05-11T13:04:11-04:00",
+				"url": "https://www.chrisdeluca.me/2026/05/11/road-house.html",
+				"tags": ["movies","photos","letterboxd"]
 			},
 			{
 				"id": "http://chrisd.micro.blog/2026/05/03/finished-reading-one-for-the.html",
@@ -35,8 +62,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/05/02/hxan.html",
 				"title": "Häxan, 1922",
-				"content_html": "<p><img src=\"uploads/2026/8871-haxan-0-600-0-900-crop.jpg\"/></p> <p>Impressive visuals for the time, and slow paced. The opening segment is all still images with text boxes. The conclusion draws some I think for the time progressive parallels between witchcraft persecution and the then modern treatment of women, but it sounds ignorant from now modern knowledge. Interesting from a history of film perspective, and there’s some great shots of nuns sticking out their tongues.</p>\n",
-				"content_text": "<p><img src=\"uploads/2026/8871-haxan-0-600-0-900-crop.jpg\"/></p> <p>Impressive visuals for the time, and slow paced. The opening segment is all still images with text boxes. The conclusion draws some I think for the time progressive parallels between witchcraft persecution and the then modern treatment of women, but it sounds ignorant from now modern knowledge. Interesting from a history of film perspective, and there’s some great shots of nuns sticking out their tongues.</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/8871-haxan-0-600-0-900-crop.jpg\"/></p> <p>Impressive visuals for the time, and slow paced. The opening segment is all still images with text boxes. The conclusion draws some I think for the time progressive parallels between witchcraft persecution and the then modern treatment of women, but it sounds ignorant from now modern knowledge. Interesting from a history of film perspective, and there’s some great shots of nuns sticking out their tongues.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/8871-haxan-0-600-0-900-crop.jpg\"/></p> <p>Impressive visuals for the time, and slow paced. The opening segment is all still images with text boxes. The conclusion draws some I think for the time progressive parallels between witchcraft persecution and the then modern treatment of women, but it sounds ignorant from now modern knowledge. Interesting from a history of film perspective, and there’s some great shots of nuns sticking out their tongues.</p>\n",
 				"date_published": "2026-05-02T08:16:36-04:00",
 				"url": "https://www.chrisdeluca.me/2026/05/02/hxan.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -156,8 +183,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/04/03/project-hail-mary.html",
 				"title": "Project Hail Mary, 2026 - ★★★★½",
-				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
+				"content_html": "<p><img src=\"uploads/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
 				"date_published": "2026-04-03T21:21:59-04:00",
 				"url": "https://www.chrisdeluca.me/2026/04/03/project-hail-mary.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -209,8 +236,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/03/12/mel-brooks-the-year-old.html",
 				"title": "Mel Brooks: The 99 Year Old Man!, 2026",
-				"content_html": "<p><img src=\"uploads/2026/1486107-mel-brooks-the-99-year-old-man-0-600-0-900-crop.jpg\"/></p> <p>Pure joy.</p>\n",
-				"content_text": "<p><img src=\"uploads/2026/1486107-mel-brooks-the-99-year-old-man-0-600-0-900-crop.jpg\"/></p> <p>Pure joy.</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/1486107-mel-brooks-the-99-year-old-man-0-600-0-900-crop.jpg\"/></p> <p>Pure joy.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/1486107-mel-brooks-the-99-year-old-man-0-600-0-900-crop.jpg\"/></p> <p>Pure joy.</p>\n",
 				"date_published": "2026-03-12T21:06:12-04:00",
 				"url": "https://www.chrisdeluca.me/2026/03/12/mel-brooks-the-year-old.html",
 				"tags": ["movies","photos","letterboxd"]
