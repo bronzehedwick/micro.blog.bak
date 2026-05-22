@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/05/22/inspired-by-star-shaped-post.html",
+				
+				"content_html": "<p>Inspired by <a href=\"https://labyrinth.social/@starshaped/116618925559863705\">Star Shaped</a> post.</p>\n<p>10 bands I&rsquo;ve seen live:</p>\n<ol>\n<li>Rage Against The Machine</li>\n<li>Faith No More</li>\n<li>Soundgarden</li>\n<li>Nine Inch Nails</li>\n<li>The 21st Century Doors</li>\n<li>Primus</li>\n<li>Parlour Magic</li>\n<li>Ty Segall</li>\n<li>Jeff Rosenstock</li>\n<li>Sufjan Stevens</li>\n</ol>\n",
+				"content_text": "Inspired by [Star Shaped](https://labyrinth.social/@starshaped/116618925559863705) post.\n\n10 bands I've seen live:\n\n1. Rage Against The Machine\n2. Faith No More\n3. Soundgarden\n4. Nine Inch Nails\n5. The 21st Century Doors\n6. Primus\n7. Parlour Magic \n8. Ty Segall\n9. Jeff Rosenstock\n10. Sufjan Stevens\n",
+				"date_published": "2026-05-22T14:20:25-04:00",
+				"url": "https://www.chrisdeluca.me/2026/05/22/inspired-by-star-shaped-post.html"
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/05/15/clue.html",
 				"title": "Clue, 1985",
 				"content_html": "<p><img src=\"uploads/2026/42531-clue-0-600-0-900-crop.jpg\"/></p> <p>This movie is so much fun.</p>\n",
@@ -183,8 +191,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/04/03/project-hail-mary.html",
 				"title": "Project Hail Mary, 2026 - ★★★★½",
-				"content_html": "<p><img src=\"uploads/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
-				"content_text": "<p><img src=\"uploads/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
 				"date_published": "2026-04-03T21:21:59-04:00",
 				"url": "https://www.chrisdeluca.me/2026/04/03/project-hail-mary.html",
 				"tags": ["movies","photos","letterboxd"]
