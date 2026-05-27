@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/05/27/i-just-took-the-state.html",
+				
+				"content_html": "<p>I just took the <a href=\"https://survey.devographics.com/survey/state-of-css/2026\">State of CSS 2026 survey</a>. It&rsquo;s a good thing to do for the web industry for the demographic data alone. Go take it if you have a minute! 💽</p>\n",
+				"content_text": "I just took the [State of CSS 2026 survey](https://survey.devographics.com/survey/state-of-css/2026). It's a good thing to do for the web industry for the demographic data alone. Go take it if you have a minute! 💽\n",
+				"date_published": "2026-05-27T15:14:00-04:00",
+				"url": "https://www.chrisdeluca.me/2026/05/27/i-just-took-the-state.html",
+				"tags": ["tech"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/05/26/silver-streak.html",
+				"title": "Silver Streak, 1976",
+				"content_html": "<p><img src=\"uploads/2026/45190-silver-streak-0-600-0-900-crop.jpg\"/></p> <p>Train cinema forever. Every genre. What a romp.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/45190-silver-streak-0-600-0-900-crop.jpg\"/></p> <p>Train cinema forever. Every genre. What a romp.</p>\n",
+				"date_published": "2026-05-26T22:38:54-04:00",
+				"url": "https://www.chrisdeluca.me/2026/05/26/silver-streak.html",
+				"tags": ["movies","photos","letterboxd"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/05/26/my-roommate-had-santana-live.html",
+				
+				"content_html": "<p>My roommate had <a href=\"https://m.youtube.com/watch?v=LR4SsjL9mxs&amp;pp=ygUhc2FudGFuYSBsaXZlIGF0IHRhbmdsZXdvb2QgKDE5NzAp\">Santana live at tanglewood 1970</a> concert and it’s so good. High energy locked in the groove. 🎵</p>\n",
+				"content_text": "My roommate had [Santana live at tanglewood 1970](https://m.youtube.com/watch?v=LR4SsjL9mxs&pp=ygUhc2FudGFuYSBsaXZlIGF0IHRhbmdsZXdvb2QgKDE5NzAp) concert and it’s so good. High energy locked in the groove. 🎵\n",
+				"date_published": "2026-05-26T19:56:40-04:00",
+				"url": "https://www.chrisdeluca.me/2026/05/26/my-roommate-had-santana-live.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/05/26/i-took-a-cat-nap.html",
+				
+				"content_html": "<p>I took a cat nap today. Fun how goals change as you age 👌</p>\n",
+				"content_text": "I took a cat nap today. Fun how goals change as you age 👌\n",
+				"date_published": "2026-05-26T19:53:52-04:00",
+				"url": "https://www.chrisdeluca.me/2026/05/26/i-took-a-cat-nap.html"
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/05/26/the-cassandra-crossing.html",
 				"title": "The Cassandra Crossing, 1976",
 				"content_html": "<p><img src=\"uploads/2026/30706-the-cassandra-crossing-0-600-0-900-crop.jpg\"/></p> <p>What a fun slow burn 70s disaster movie. The cast is insane, and I found it so compelling throughout.</p>\n",
@@ -18,8 +53,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/05/23/unstoppable.html",
 				"title": "Unstoppable, 2010",
-				"content_html": "<p><img src=\"uploads/2026/21116-unstoppable-0-600-0-900-crop.jpg\"/></p> <p>This movie whips.</p>\n",
-				"content_text": "<p><img src=\"uploads/2026/21116-unstoppable-0-600-0-900-crop.jpg\"/></p> <p>This movie whips.</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/21116-unstoppable-0-600-0-900-crop.jpg\"/></p> <p>This movie whips.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/21116-unstoppable-0-600-0-900-crop.jpg\"/></p> <p>This movie whips.</p>\n",
 				"date_published": "2026-05-23T22:52:47-04:00",
 				"url": "https://www.chrisdeluca.me/2026/05/23/unstoppable.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -35,8 +70,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/05/22/the-taking-of-pelham-one.html",
 				"title": "The Taking of Pelham One Two Three, 1974",
-				"content_html": "<p><img src=\"uploads/2026/47800-the-taking-of-pelham-one-two-three-0-600-0-900-crop.jpg\"/></p> <p>Great New York movie, great transit movie.</p>\n",
-				"content_text": "<p><img src=\"uploads/2026/47800-the-taking-of-pelham-one-two-three-0-600-0-900-crop.jpg\"/></p> <p>Great New York movie, great transit movie.</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/47800-the-taking-of-pelham-one-two-three-0-600-0-900-crop.jpg\"/></p> <p>Great New York movie, great transit movie.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/47800-the-taking-of-pelham-one-two-three-0-600-0-900-crop.jpg\"/></p> <p>Great New York movie, great transit movie.</p>\n",
 				"date_published": "2026-05-22T23:14:34-04:00",
 				"url": "https://www.chrisdeluca.me/2026/05/22/the-taking-of-pelham-one.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -44,8 +79,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/05/22/hellzapoppin.html",
 				"title": "Hellzapoppin\u0026#039;, 1941",
-				"content_html": "<p><img src=\"uploads/2026/39835-hellzapoppin-0-600-0-900-crop.jpg\"/></p> <p>This movie is so cool and legit funny. It’s so much more absurdist than most comedies, much less comedies from the fourties’</p>\n",
-				"content_text": "<p><img src=\"uploads/2026/39835-hellzapoppin-0-600-0-900-crop.jpg\"/></p> <p>This movie is so cool and legit funny. It’s so much more absurdist than most comedies, much less comedies from the fourties’</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/39835-hellzapoppin-0-600-0-900-crop.jpg\"/></p> <p>This movie is so cool and legit funny. It’s so much more absurdist than most comedies, much less comedies from the fourties’</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/39835-hellzapoppin-0-600-0-900-crop.jpg\"/></p> <p>This movie is so cool and legit funny. It’s so much more absurdist than most comedies, much less comedies from the fourties’</p>\n",
 				"date_published": "2026-05-22T18:21:07-04:00",
 				"url": "https://www.chrisdeluca.me/2026/05/22/hellzapoppin.html",
 				"tags": ["movies","photos","letterboxd"]
