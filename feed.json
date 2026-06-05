@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/06/04/finished-reading-the-dark-tower.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781501143557/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781501143557\">The Dark Tower IV</a> by Stephen King 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781501143557/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Dark Tower IV](https://micro.blog/books/9781501143557) by Stephen King 📚\n",
+				"date_published": "2026-06-04T23:20:00-04:00",
+				"url": "https://www.chrisdeluca.me/2026/06/04/finished-reading-the-dark-tower.html"
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/05/27/i-just-took-the-state.html",
 				
 				"content_html": "<p>I just took the <a href=\"https://survey.devographics.com/survey/state-of-css/2026\">State of CSS 2026 survey</a>. It&rsquo;s a good thing to do for the web industry for the demographic data alone. Go take it if you have a minute! 💽</p>\n",
@@ -44,8 +52,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/05/26/the-cassandra-crossing.html",
 				"title": "The Cassandra Crossing, 1976",
-				"content_html": "<p><img src=\"uploads/2026/30706-the-cassandra-crossing-0-600-0-900-crop.jpg\"/></p> <p>What a fun slow burn 70s disaster movie. The cast is insane, and I found it so compelling throughout.</p>\n",
-				"content_text": "<p><img src=\"uploads/2026/30706-the-cassandra-crossing-0-600-0-900-crop.jpg\"/></p> <p>What a fun slow burn 70s disaster movie. The cast is insane, and I found it so compelling throughout.</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/30706-the-cassandra-crossing-0-600-0-900-crop.jpg\"/></p> <p>What a fun slow burn 70s disaster movie. The cast is insane, and I found it so compelling throughout.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/30706-the-cassandra-crossing-0-600-0-900-crop.jpg\"/></p> <p>What a fun slow burn 70s disaster movie. The cast is insane, and I found it so compelling throughout.</p>\n",
 				"date_published": "2026-05-26T10:46:03-04:00",
 				"url": "https://www.chrisdeluca.me/2026/05/26/the-cassandra-crossing.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -114,8 +122,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/05/11/playing-with-image-processing-in.html",
 				
-				"content_html": "<p>Playing with image processing in Astoria park.</p>\n<img src=\"uploads/2026/night-sky.jpg\" width=\"600\" height=\"458\" alt=\"Silhouetted trees and foliage are framed against a moody, cloudy night sky.\">\n",
-				"content_text": "Playing with image processing in Astoria park.\n\n<img src=\"uploads/2026/night-sky.jpg\" width=\"600\" height=\"458\" alt=\"Silhouetted trees and foliage are framed against a moody, cloudy night sky.\">\n",
+				"content_html": "<p>Playing with image processing in Astoria park.</p>\n<img src=\"https://cdn.uploads.micro.blog/111874/2026/night-sky.jpg\" width=\"600\" height=\"458\" alt=\"Silhouetted trees and foliage are framed against a moody, cloudy night sky.\">\n",
+				"content_text": "Playing with image processing in Astoria park.\n\n<img src=\"https://cdn.uploads.micro.blog/111874/2026/night-sky.jpg\" width=\"600\" height=\"458\" alt=\"Silhouetted trees and foliage are framed against a moody, cloudy night sky.\">\n",
 				"date_published": "2026-05-11T20:33:26-04:00",
 				"url": "https://www.chrisdeluca.me/2026/05/11/playing-with-image-processing-in.html",
 				"tags": ["photos"]
@@ -123,8 +131,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/05/11/road-house.html",
 				"title": "Road House, 1989",
-				"content_html": "<p><img src=\"uploads/2026/46514-road-house-0-600-0-900-crop.jpg\"/></p> <p>Never seen it before. Dumb fun. I'm in the \"Swayze is charismatic\" camp.</p>\n",
-				"content_text": "<p><img src=\"uploads/2026/46514-road-house-0-600-0-900-crop.jpg\"/></p> <p>Never seen it before. Dumb fun. I'm in the \"Swayze is charismatic\" camp.</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/46514-road-house-0-600-0-900-crop.jpg\"/></p> <p>Never seen it before. Dumb fun. I'm in the \"Swayze is charismatic\" camp.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/46514-road-house-0-600-0-900-crop.jpg\"/></p> <p>Never seen it before. Dumb fun. I'm in the \"Swayze is charismatic\" camp.</p>\n",
 				"date_published": "2026-05-11T13:04:11-04:00",
 				"url": "https://www.chrisdeluca.me/2026/05/11/road-house.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -270,8 +278,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/04/03/project-hail-mary.html",
 				"title": "Project Hail Mary, 2026 - ★★★★½",
-				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
+				"content_html": "<p><img src=\"uploads/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
 				"date_published": "2026-04-03T21:21:59-04:00",
 				"url": "https://www.chrisdeluca.me/2026/04/03/project-hail-mary.html",
 				"tags": ["movies","photos","letterboxd"]
