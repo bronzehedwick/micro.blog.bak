@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/06/11/heavyweights.html",
+				"title": "Heavyweights, 1995",
+				"content_html": "<p><img src=\"uploads/2026/42792-heavyweights-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday June 11, 2026.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/42792-heavyweights-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday June 11, 2026.</p>\n",
+				"date_published": "2026-06-11T18:18:11-04:00",
+				"url": "https://www.chrisdeluca.me/2026/06/11/heavyweights.html",
+				"tags": ["movies","photos","letterboxd"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/06/08/hey-willdurandmamotfr-any-chance-youre.html",
 				
 				"content_html": "<p>Hey <a href=\"https://micro.blog/willdurand@mamot.fr\">@willdurand@mamot.fr</a>, any chance you&rsquo;re still maintaining <code>srht.vim</code>? I opened a <a href=\"https://lists.sr.ht/~willdurand/public-inbox/patches/69897\">patch on your mailing list</a> I&rsquo;d love to hear your feedback on!</p>\n",
