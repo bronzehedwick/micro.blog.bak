@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/07/02/ready-or-not.html",
+				"title": "Ready or Not, 2019",
+				"content_html": "<p><img src=\"uploads/2026/495969-ready-or-not-0-600-0-900-crop.jpg\"/></p> <p>Really fun and more emotional than I expected. Ace cast.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/495969-ready-or-not-0-600-0-900-crop.jpg\"/></p> <p>Really fun and more emotional than I expected. Ace cast.</p>\n",
+				"date_published": "2026-07-02T20:19:04-04:00",
+				"url": "https://www.chrisdeluca.me/2026/07/02/ready-or-not.html",
+				"tags": ["movies","photos","letterboxd"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/06/26/obsession.html",
 				"title": "Obsession, 2025",
 				"content_html": "<p><img src=\"uploads/2026/1234472-obsession-2025-2-0-600-0-900-crop.jpg\"/></p> <p>Genuinely unsettling. This thing has been out for weeks and my local theater was almost full. I didn't know the director was a former YouTuber before I saw the movie, or that he was so young. I can clock some of that inexperience in retrospect, but overall it's a confident, stylish, and creepy debut. Also, according to the box office, everyone has already seen this, so y'all know what I mean.</p>\n",
@@ -43,8 +52,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/06/20/i-was-a-nervous-wreck.html",
 				
-				"content_html": "<p>I was a nervous wreck, but I got to meet Jimmy Pardo after his hilarious set at the Bell House just now, and got to thank him for his show helping me through hard times. He was incredibly gracious despite my blathering.</p>\n<img src=\"uploads/2026/978ad0e130.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"content_text": "I was a nervous wreck, but I got to meet Jimmy Pardo after his hilarious set at the Bell House just now, and got to thank him for his show helping me through hard times. He was incredibly gracious despite my blathering. \n\n<img src=\"uploads/2026/978ad0e130.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>I was a nervous wreck, but I got to meet Jimmy Pardo after his hilarious set at the Bell House just now, and got to thank him for his show helping me through hard times. He was incredibly gracious despite my blathering.</p>\n<img src=\"https://cdn.uploads.micro.blog/111874/2026/978ad0e130.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "I was a nervous wreck, but I got to meet Jimmy Pardo after his hilarious set at the Bell House just now, and got to thank him for his show helping me through hard times. He was incredibly gracious despite my blathering. \n\n<img src=\"https://cdn.uploads.micro.blog/111874/2026/978ad0e130.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-06-20T17:50:22-04:00",
 				"url": "https://www.chrisdeluca.me/2026/06/20/i-was-a-nervous-wreck.html",
 				"tags": ["photos"]
@@ -52,8 +61,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/06/11/heavyweights.html",
 				"title": "Heavyweights, 1995",
-				"content_html": "<p><img src=\"uploads/2026/42792-heavyweights-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday June 11, 2026.</p>\n",
-				"content_text": "<p><img src=\"uploads/2026/42792-heavyweights-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday June 11, 2026.</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/42792-heavyweights-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday June 11, 2026.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/42792-heavyweights-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday June 11, 2026.</p>\n",
 				"date_published": "2026-06-11T18:18:11-04:00",
 				"url": "https://www.chrisdeluca.me/2026/06/11/heavyweights.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -355,8 +364,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/04/03/project-hail-mary.html",
 				"title": "Project Hail Mary, 2026 - ★★★★½",
-				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
+				"content_html": "<p><img src=\"uploads/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
 				"date_published": "2026-04-03T21:21:59-04:00",
 				"url": "https://www.chrisdeluca.me/2026/04/03/project-hail-mary.html",
 				"tags": ["movies","photos","letterboxd"]
