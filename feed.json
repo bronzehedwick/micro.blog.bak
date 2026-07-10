@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/07/09/ready-or-not-here-i.html",
+				"title": "Ready or Not 2: Here I Come, 2026",
+				"content_html": "<p><img src=\"uploads/2026/1150113-ready-or-not-2-here-i-come-0-600-0-900-crop.jpg\"/></p> <p>Fun sequel. Hard to pull off a decent one with a high concept premise like this and while it doesn’t reach the original it’s a real good time.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/1150113-ready-or-not-2-here-i-come-0-600-0-900-crop.jpg\"/></p> <p>Fun sequel. Hard to pull off a decent one with a high concept premise like this and while it doesn’t reach the original it’s a real good time.</p>\n",
+				"date_published": "2026-07-09T23:26:07-04:00",
+				"url": "https://www.chrisdeluca.me/2026/07/09/ready-or-not-here-i.html",
+				"tags": ["movies","photos","letterboxd"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/07/02/ready-or-not.html",
 				"title": "Ready or Not, 2019",
 				"content_html": "<p><img src=\"uploads/2026/495969-ready-or-not-0-600-0-900-crop.jpg\"/></p> <p>Really fun and more emotional than I expected. Ace cast.</p>\n",
@@ -43,8 +52,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/06/22/beyond-the-door-iii.html",
 				"title": "Beyond the Door III, 1989",
-				"content_html": "<p><img src=\"uploads/2026/29556-beyond-the-door-iii-0-600-0-900-crop.jpg\"/></p> <p>Ghost train is best train.</p>\n",
-				"content_text": "<p><img src=\"uploads/2026/29556-beyond-the-door-iii-0-600-0-900-crop.jpg\"/></p> <p>Ghost train is best train.</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/29556-beyond-the-door-iii-0-600-0-900-crop.jpg\"/></p> <p>Ghost train is best train.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/29556-beyond-the-door-iii-0-600-0-900-crop.jpg\"/></p> <p>Ghost train is best train.</p>\n",
 				"date_published": "2026-06-22T22:42:28-04:00",
 				"url": "https://www.chrisdeluca.me/2026/06/22/beyond-the-door-iii.html",
 				"tags": ["movies","photos","letterboxd"]
