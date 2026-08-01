@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/08/01/pure-mood.html",
+				
+				"content_html": "<img src=\"uploads/2026/pure-mood.jpg\" width=\"600\" height=\"590\" alt=\"Auto-generated description: A tortoiseshell cat is lying stretched out on a soft surface, appearing relaxed and contemplative.\">\n<p>Pure mood 🐈</p>\n",
+				"content_text": "<img src=\"uploads/2026/pure-mood.jpg\" width=\"600\" height=\"590\" alt=\"Auto-generated description: A tortoiseshell cat is lying stretched out on a soft surface, appearing relaxed and contemplative.\">\n\nPure mood 🐈\n",
+				"date_published": "2026-08-01T11:20:48-04:00",
+				"url": "https://www.chrisdeluca.me/2026/08/01/pure-mood.html",
+				"tags": ["cats","photos"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/07/31/175847.html",
+				
+				"content_html": "<img src=\"uploads/2026/218b2c48f0.jpg\" width=\"490\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"uploads/2026/218b2c48f0.jpg\" width=\"490\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-07-31T17:58:47-04:00",
+				"url": "https://www.chrisdeluca.me/2026/07/31/175847.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/07/30/200730.html",
+				
+				"content_html": "<img src=\"uploads/2026/img-7440.jpg\" width=\"600\" height=\"334\" alt=\"Auto-generated description: A soccer field is surrounded by trees and groups of people under a dramatic sunset sky with dark, heavy clouds.\">\n<p>The drama of soccer.</p>\n",
+				"content_text": "<img src=\"uploads/2026/img-7440.jpg\" width=\"600\" height=\"334\" alt=\"Auto-generated description: A soccer field is surrounded by trees and groups of people under a dramatic sunset sky with dark, heavy clouds.\">\n\nThe drama of soccer.\n",
+				"date_published": "2026-07-30T20:07:30-04:00",
+				"url": "https://www.chrisdeluca.me/2026/07/30/200730.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/07/30/altcomic-god-brian-poseidon-is.html",
 				
 				"content_html": "<p>Alt-comic God Brian Poseidon. Is that anything?</p>\n",
