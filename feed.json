@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/08/02/i-discovered-the-uuidgen-command.html",
+				
+				"content_html": "<p>I discovered the <code>uuidgen</code> command, which generates a unique ID like <code>3E7FE9F8-9D26-42BE-999D-43D2D34697BC</code>. This seems like it would be great to use in some shell glue script or another. 💽</p>\n",
+				"content_text": "I discovered the `uuidgen` command, which generates a unique ID like `3E7FE9F8-9D26-42BE-999D-43D2D34697BC`. This seems like it would be great to use in some shell glue script or another. 💽\n",
+				"date_published": "2026-08-02T14:18:37-04:00",
+				"url": "https://www.chrisdeluca.me/2026/08/02/i-discovered-the-uuidgen-command.html",
+				"tags": ["tech"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/08/01/hairspray.html",
+				"title": "Hairspray, 1988 - ★★★★",
+				"content_html": "<p><img src=\"uploads/2026/45649-hairspray-0-600-0-900-crop.jpg\"/></p> <p>Still the best.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/45649-hairspray-0-600-0-900-crop.jpg\"/></p> <p>Still the best.</p>\n",
+				"date_published": "2026-08-01T21:30:04-04:00",
+				"url": "https://www.chrisdeluca.me/2026/08/01/hairspray.html",
+				"tags": ["movies","photos","letterboxd"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/08/01/pure-mood.html",
 				
 				"content_html": "<img src=\"uploads/2026/pure-mood.jpg\" width=\"600\" height=\"590\" alt=\"Auto-generated description: A tortoiseshell cat is lying stretched out on a soft surface, appearing relaxed and contemplative.\">\n<p>Pure mood 🐈</p>\n",
@@ -27,8 +45,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/07/30/200730.html",
 				
-				"content_html": "<img src=\"uploads/2026/img-7440.jpg\" width=\"600\" height=\"334\" alt=\"Auto-generated description: A soccer field is surrounded by trees and groups of people under a dramatic sunset sky with dark, heavy clouds.\">\n<p>The drama of soccer.</p>\n",
-				"content_text": "<img src=\"uploads/2026/img-7440.jpg\" width=\"600\" height=\"334\" alt=\"Auto-generated description: A soccer field is surrounded by trees and groups of people under a dramatic sunset sky with dark, heavy clouds.\">\n\nThe drama of soccer.\n",
+				"content_html": "<img src=\"https://cdn.uploads.micro.blog/111874/2026/img-7440.jpg\" width=\"600\" height=\"334\" alt=\"Auto-generated description: A soccer field is surrounded by trees and groups of people under a dramatic sunset sky with dark, heavy clouds.\">\n<p>The drama of soccer.</p>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/111874/2026/img-7440.jpg\" width=\"600\" height=\"334\" alt=\"Auto-generated description: A soccer field is surrounded by trees and groups of people under a dramatic sunset sky with dark, heavy clouds.\">\n\nThe drama of soccer.\n",
 				"date_published": "2026-07-30T20:07:30-04:00",
 				"url": "https://www.chrisdeluca.me/2026/07/30/200730.html",
 				"tags": ["photos"]
