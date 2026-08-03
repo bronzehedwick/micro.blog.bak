@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/08/03/i-got-my-signed-copy.html",
+				
+				"content_html": "<img src=\"uploads/2026/difficult-people.jpg\" alt=\"Blue-Ray case of Difficult People, the complete series. It&#39;s signed: &quot;To Chris, with love and gratitude. — Julie Klausner, June 2026&quot;\" width=\"332\" height=\"442\" />\n<p>I got my signed copy of <em>Difficult People</em>. Great comedy on physical media won&rsquo;t solve <em>waves hands</em>, but it sure helps.</p>\n",
+				"content_text": "<img src=\"uploads/2026/difficult-people.jpg\" alt=\"Blue-Ray case of Difficult People, the complete series. It&#39;s signed: &quot;To Chris, with love and gratitude. — Julie Klausner, June 2026&quot;\" width=\"332\" height=\"442\" />\n\nI got my signed copy of _Difficult People_. Great comedy on physical media won't solve *waves hands*, but it sure helps.\n",
+				"date_published": "2026-08-03T09:35:34-04:00",
+				"url": "https://www.chrisdeluca.me/2026/08/03/i-got-my-signed-copy.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/08/02/i-discovered-the-uuidgen-command.html",
 				
 				"content_html": "<p>I discovered the <code>uuidgen</code> command, which generates a unique ID like <code>3E7FE9F8-9D26-42BE-999D-43D2D34697BC</code>. This seems like it would be great to use in some shell glue script or another. 💽</p>\n",
@@ -27,8 +36,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/08/01/pure-mood.html",
 				
-				"content_html": "<img src=\"uploads/2026/pure-mood.jpg\" width=\"600\" height=\"590\" alt=\"Auto-generated description: A tortoiseshell cat is lying stretched out on a soft surface, appearing relaxed and contemplative.\">\n<p>Pure mood 🐈</p>\n",
-				"content_text": "<img src=\"uploads/2026/pure-mood.jpg\" width=\"600\" height=\"590\" alt=\"Auto-generated description: A tortoiseshell cat is lying stretched out on a soft surface, appearing relaxed and contemplative.\">\n\nPure mood 🐈\n",
+				"content_html": "<img src=\"https://cdn.uploads.micro.blog/111874/2026/pure-mood.jpg\" width=\"600\" height=\"590\" alt=\"Auto-generated description: A tortoiseshell cat is lying stretched out on a soft surface, appearing relaxed and contemplative.\">\n<p>Pure mood 🐈</p>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/111874/2026/pure-mood.jpg\" width=\"600\" height=\"590\" alt=\"Auto-generated description: A tortoiseshell cat is lying stretched out on a soft surface, appearing relaxed and contemplative.\">\n\nPure mood 🐈\n",
 				"date_published": "2026-08-01T11:20:48-04:00",
 				"url": "https://www.chrisdeluca.me/2026/08/01/pure-mood.html",
 				"tags": ["cats","photos"]
