@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/08/08/today-i-learned-about-the.html",
+				
+				"content_html": "<p>Today I learned about the <a href=\"https://en.wikipedia.org/wiki/Trivial_File_Transfer_Protocol\">Trivial File Transfer Protocol</a>, and the matching <code>tftp</code> command. It’s like FTP, but much more simple, less secure, uses less memory, and is sometimes used in initial bootloading on low memory devices. It isn’t used over the internet, given the security concerns.</p>\n<p>This trivia brought to you by me mistyping something in the terminal and seeing this command in the autocomplete suggestions. 💽</p>\n",
+				"content_text": "Today I learned about the [Trivial File Transfer Protocol](https://en.wikipedia.org/wiki/Trivial_File_Transfer_Protocol), and the matching `tftp` command. It’s like FTP, but much more simple, less secure, uses less memory, and is sometimes used in initial bootloading on low memory devices. It isn’t used over the internet, given the security concerns. \n\nThis trivia brought to you by me mistyping something in the terminal and seeing this command in the autocomplete suggestions. 💽\n",
+				"date_published": "2026-08-08T10:24:25-04:00",
+				"url": "https://www.chrisdeluca.me/2026/08/08/today-i-learned-about-the.html",
+				"tags": ["tech"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/08/07/nirvanna-the-band-the-show.html",
+				"title": "Nirvanna the Band the Show the Movie, 2025 - ★★★★★",
+				"content_html": "<p><img src=\"uploads/2026/2f7de83389.jpg\"/></p> <p>Watched on Friday August 7, 2026.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/2f7de83389.jpg\"/></p> <p>Watched on Friday August 7, 2026.</p>\n",
+				"date_published": "2026-08-07T23:50:37-04:00",
+				"url": "https://www.chrisdeluca.me/2026/08/07/nirvanna-the-band-the-show.html",
+				"tags": ["movies","photos","letterboxd"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/08/07/i-saw-dan-deacon-for.html",
 				
 				"content_html": "<p>I saw Dan Deacon for the first time last weekend, and man does he put on a great show. The fans were genuinely kind and fun, very good vibes. No small feat!</p>\n",
@@ -35,8 +53,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/08/04/focus-on-the-cat-ignore.html",
 				
-				"content_html": "<img src=\"uploads/2026/floomph.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A calico cat is lying down with its paw stretched out, looking directly at the camera with a relaxed but attentive expression.\">\n<p>Focus on the cat, ignore the mess. 🐈</p>\n",
-				"content_text": "<img src=\"uploads/2026/floomph.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A calico cat is lying down with its paw stretched out, looking directly at the camera with a relaxed but attentive expression.\">\n\nFocus on the cat, ignore the mess. 🐈\n",
+				"content_html": "<img src=\"https://cdn.uploads.micro.blog/111874/2026/floomph.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A calico cat is lying down with its paw stretched out, looking directly at the camera with a relaxed but attentive expression.\">\n<p>Focus on the cat, ignore the mess. 🐈</p>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/111874/2026/floomph.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A calico cat is lying down with its paw stretched out, looking directly at the camera with a relaxed but attentive expression.\">\n\nFocus on the cat, ignore the mess. 🐈\n",
 				"date_published": "2026-08-04T11:37:27-04:00",
 				"url": "https://www.chrisdeluca.me/2026/08/04/focus-on-the-cat-ignore.html",
 				"tags": ["cats","photos"]
