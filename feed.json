@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/08/11/started-reading-the-dark-tower.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781880418604/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Started reading: <a href=\"https://micro.blog/books/9781880418604\">The Dark Tower 7:The Dark Tower</a> by Stephen King 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781880418604/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nStarted reading: [The Dark Tower 7:The Dark Tower](https://micro.blog/books/9781880418604) by Stephen King 📚\n",
+				"date_published": "2026-08-11T12:11:28-04:00",
+				"url": "https://www.chrisdeluca.me/2026/08/11/started-reading-the-dark-tower.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/08/11/finished-reading-the-dark-tower.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780743251624/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780743251624\">The Dark Tower V Wolves of the Calla</a> by Stephen King 📚</p>\n<p>Things are really heating up, and <em>boy</em> does King go <strong>hard</strong>. If you know you know.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780743251624/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Dark Tower V Wolves of the Calla](https://micro.blog/books/9780743251624) by Stephen King 📚\n\nThings are really heating up, and *boy* does King go **hard**. If you know you know.\n",
+				"date_published": "2026-08-11T12:10:40-04:00",
+				"url": "https://www.chrisdeluca.me/2026/08/11/finished-reading-the-dark-tower.html",
+				"tags": ["reading"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/08/10/silly-dream-i-want-my.html",
 				
 				"content_html": "<p>Silly dream: I want my domain, chrisdeluca.me, to return something for every <a href=\"https://everything.curl.dev/protocols/curl.html\">protocol supported by <code>curl</code></a>. 💽</p>\n",
@@ -48,7 +66,8 @@
 				"content_html": "<p>I saw Dan Deacon for the first time last weekend, and man does he put on a great show. The fans were genuinely kind and fun, very good vibes. No small feat!</p>\n",
 				"content_text": "I saw Dan Deacon for the first time last weekend, and man does he put on a great show. The fans were genuinely kind and fun, very good vibes. No small feat!\n",
 				"date_published": "2026-08-07T13:45:02-04:00",
-				"url": "https://www.chrisdeluca.me/2026/08/07/i-saw-dan-deacon-for.html"
+				"url": "https://www.chrisdeluca.me/2026/08/07/i-saw-dan-deacon-for.html",
+				"tags": ["music"]
 			},
 			{
 				"id": "http://chrisd.micro.blog/2026/08/06/ive-really-been-getting-into.html",
@@ -196,8 +215,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/07/26/following-up-on-my-god.html",
 				
-				"content_html": "<p>Following up on my <a href=\"https://www.chrisdeluca.me/2026/07/26/god-of-thunder-for-dos.html\">God of Thunder</a> post, it included some wonderful BBS information. You gotta love it.</p>\n<img src=\"https://cdn.uploads.micro.blog/111874/2026/got-bbs.jpg\" width=\"600\" height=\"447\" alt=\"Auto-generated description: A retro-style advertisement promotes the Software Creations BBS as a 24-hour support system for popular shareware games, providing phone numbers for various modem speeds to join the service.\">\n",
-				"content_text": "Following up on my [God of Thunder](https://www.chrisdeluca.me/2026/07/26/god-of-thunder-for-dos.html) post, it included some wonderful BBS information. You gotta love it.\n\n<img src=\"https://cdn.uploads.micro.blog/111874/2026/got-bbs.jpg\" width=\"600\" height=\"447\" alt=\"Auto-generated description: A retro-style advertisement promotes the Software Creations BBS as a 24-hour support system for popular shareware games, providing phone numbers for various modem speeds to join the service.\">\n",
+				"content_html": "<p>Following up on my <a href=\"https://www.chrisdeluca.me/2026/07/26/god-of-thunder-for-dos.html\">God of Thunder</a> post, it included some wonderful BBS information. You gotta love it.</p>\n<img src=\"uploads/2026/got-bbs.jpg\" width=\"600\" height=\"447\" alt=\"Auto-generated description: A retro-style advertisement promotes the Software Creations BBS as a 24-hour support system for popular shareware games, providing phone numbers for various modem speeds to join the service.\">\n",
+				"content_text": "Following up on my [God of Thunder](https://www.chrisdeluca.me/2026/07/26/god-of-thunder-for-dos.html) post, it included some wonderful BBS information. You gotta love it.\n\n<img src=\"uploads/2026/got-bbs.jpg\" width=\"600\" height=\"447\" alt=\"Auto-generated description: A retro-style advertisement promotes the Software Creations BBS as a 24-hour support system for popular shareware games, providing phone numbers for various modem speeds to join the service.\">\n",
 				"date_published": "2026-07-26T12:00:25-04:00",
 				"url": "https://www.chrisdeluca.me/2026/07/26/following-up-on-my-god.html",
 				"tags": ["photos"]
@@ -268,8 +287,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/07/18/obsession.html",
 				"title": "Obsession, 2025",
-				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/61df422fbf.jpg\"/></p> <p>I’ve seen it twice in the theaters now and I picked up more the second time. I was also the oldest person in the theater by a good amount both times. I’m hip.</p>\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/61df422fbf.jpg\"/></p> <p>I’ve seen it twice in the theaters now and I picked up more the second time. I was also the oldest person in the theater by a good amount both times. I’m hip.</p>\n",
+				"content_html": "<p><img src=\"uploads/2026/61df422fbf.jpg\"/></p> <p>I’ve seen it twice in the theaters now and I picked up more the second time. I was also the oldest person in the theater by a good amount both times. I’m hip.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/61df422fbf.jpg\"/></p> <p>I’ve seen it twice in the theaters now and I picked up more the second time. I was also the oldest person in the theater by a good amount both times. I’m hip.</p>\n",
 				"date_published": "2026-07-18T16:19:31-04:00",
 				"url": "https://www.chrisdeluca.me/2026/07/18/obsession.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -320,8 +339,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/06/26/obsession.html",
 				"title": "Obsession, 2025",
-				"content_html": "<p><img src=\"uploads/2026/1234472-obsession-2025-2-0-600-0-900-crop.jpg\"/></p> <p>Genuinely unsettling. This thing has been out for weeks and my local theater was almost full. I didn't know the director was a former YouTuber before I saw the movie, or that he was so young. I can clock some of that inexperience in retrospect, but overall it's a confident, stylish, and creepy debut. Also, according to the box office, everyone has already seen this, so y'all know what I mean.</p>\n",
-				"content_text": "<p><img src=\"uploads/2026/1234472-obsession-2025-2-0-600-0-900-crop.jpg\"/></p> <p>Genuinely unsettling. This thing has been out for weeks and my local theater was almost full. I didn't know the director was a former YouTuber before I saw the movie, or that he was so young. I can clock some of that inexperience in retrospect, but overall it's a confident, stylish, and creepy debut. Also, according to the box office, everyone has already seen this, so y'all know what I mean.</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/1234472-obsession-2025-2-0-600-0-900-crop.jpg\"/></p> <p>Genuinely unsettling. This thing has been out for weeks and my local theater was almost full. I didn't know the director was a former YouTuber before I saw the movie, or that he was so young. I can clock some of that inexperience in retrospect, but overall it's a confident, stylish, and creepy debut. Also, according to the box office, everyone has already seen this, so y'all know what I mean.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/1234472-obsession-2025-2-0-600-0-900-crop.jpg\"/></p> <p>Genuinely unsettling. This thing has been out for weeks and my local theater was almost full. I didn't know the director was a former YouTuber before I saw the movie, or that he was so young. I can clock some of that inexperience in retrospect, but overall it's a confident, stylish, and creepy debut. Also, according to the box office, everyone has already seen this, so y'all know what I mean.</p>\n",
 				"date_published": "2026-06-26T09:22:49-04:00",
 				"url": "https://www.chrisdeluca.me/2026/06/26/obsession.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -666,8 +685,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/04/03/project-hail-mary.html",
 				"title": "Project Hail Mary, 2026 - ★★★★½",
-				"content_html": "<p><img src=\"uploads/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
-				"content_text": "<p><img src=\"uploads/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/611288-project-hail-mary-0-600-0-900-crop.jpg\"/></p> <p>Yep, it’s real good.</p>\n",
 				"date_published": "2026-04-03T21:21:59-04:00",
 				"url": "https://www.chrisdeluca.me/2026/04/03/project-hail-mary.html",
 				"tags": ["movies","photos","letterboxd"]
