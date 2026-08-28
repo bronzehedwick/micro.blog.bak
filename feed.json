@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/08/28/the-dc-command.html",
+				"title": "The dc command 💽",
+				"content_html": "<p>I stumbled across the dc command, after mistyping cd. It’s a math tool. It’s pretty esoteric in my opinion, but you can switch bases, which means you can do something like convert from a hex color to rgb, albeit digit-by-digit.</p>\n<p>For example, if you wanted to convert the hex color <code>#FAFBFC</code>, you’d convert <code>FC</code>, then <code>FB</code>, then <code>FC</code> (note the uppercase is necessary for <code>dc</code>).</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;\"><code class=\"language-bash\" data-lang=\"bash\"><span style=\"display:flex;\"><span>dc -e <span style=\"color:#e6db74\">&#39;16 i FA p&#39;</span> <span style=\"color:#75715e\"># 250</span>\n</span></span></code></pre></div>",
+				"content_text": "I stumbled across the dc command, after mistyping cd. It’s a math tool. It’s pretty esoteric in my opinion, but you can switch bases, which means you can do something like convert from a hex color to rgb, albeit digit-by-digit.\n\nFor example, if you wanted to convert the hex color `#FAFBFC`, you’d convert `FC`, then `FB`, then `FC` (note the uppercase is necessary for `dc`).\n\n```bash\ndc -e '16 i FA p' # 250\n```\n",
+				"date_published": "2026-08-28T10:18:35-04:00",
+				"url": "https://www.chrisdeluca.me/2026/08/28/the-dc-command.html",
+				"tags": ["tech"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/08/27/the-starbucks-union-is-asking.html",
+				
+				"content_html": "<p>The Starbucks union is asking you to <a href=\"https://www.boycottstarbucks.net/\">BOYCOTT STARBUCKS</a>. A temporary change in our habits can give so many workers a permanent livable wage.</p>\n",
+				"content_text": "The Starbucks union is asking you to [BOYCOTT STARBUCKS](https://www.boycottstarbucks.net/). A temporary change in our habits can give so many workers a permanent livable wage. \n",
+				"date_published": "2026-08-27T09:03:31-04:00",
+				"url": "https://www.chrisdeluca.me/2026/08/27/the-starbucks-union-is-asking.html"
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/08/26/finished-reading-song-of-susannah.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780743254557/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780743254557\">Song of Susannah</a> by Stephen King 📚</p>\n<p>Two weeks ago, I wrote about finishing <a href=\"https://www.chrisdeluca.me/2026/08/11/finished-reading-the-dark-tower.html\">Wolves of the Calla</a>.</p>\n<blockquote>\n<p>Things are really heating up, and boy does King go hard. If you know you know.</p>\n</blockquote>\n<p>I made a mistake; my thoughts, above, were supposed to be for <cite>Song of Susannah</cite>, which I finished on August 11th, not <cite>Wolves of the Calla</cite>. Looks like I forgot to log <em>&ldquo;Wolves&rdquo;</em>!</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780743254557/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Song of Susannah](https://micro.blog/books/9780743254557) by Stephen King 📚\n\nTwo weeks ago, I wrote about finishing [Wolves of the Calla](https://www.chrisdeluca.me/2026/08/11/finished-reading-the-dark-tower.html).\n\n> Things are really heating up, and boy does King go hard. If you know you know.\n\nI made a mistake; my thoughts, above, were supposed to be for <cite>Song of Susannah</cite>, which I finished on August 11th, not <cite>Wolves of the Calla</cite>. Looks like I forgot to log _\"Wolves\"_!\n",
+				"date_published": "2026-08-26T11:09:59-04:00",
+				"url": "https://www.chrisdeluca.me/2026/08/26/finished-reading-song-of-susannah.html"
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/08/26/i-found-a-fun-little.html",
 				
 				"content_html": "<p>I found a fun little quip from John Wright, the drummer of <a href=\"https://en.wikipedia.org/wiki/Nomeansno\">Nomeansno</a>, about the history of music post Nirvana.</p>\n<blockquote>\n<p>Every major label tried to sign every band, and then it became no longer an alternative, it sort of became co-opted by the mainstream and people moved on to hip hop and dub step and then everyone got sick of rock and roll and went to raves.</p>\n<p>— <a href=\"https://en.wikipedia.org/wiki/Wrong_(album)\">Wrong (album) on Wikipedia</a></p>\n</blockquote>\n<p>🎵</p>\n",
