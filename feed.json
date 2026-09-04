@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/08/31/i-was-standing-on-the.html",
+				
+				"content_html": "<p>I was standing on the street and suddenly got the powerful and unmistakable smell of <em>Garnier Fructis</em>. No one was near me, and I wasn&rsquo;t moving. The only possible explanation: a ghost was taking a shower.</p>\n",
+				"content_text": "I was standing on the street and suddenly got the powerful and unmistakable smell of _Garnier Fructis_. No one was near me, and I wasn't moving. The only possible explanation: a ghost was taking a shower.\n",
+				"date_published": "2026-08-31T11:09:53-04:00",
+				"url": "https://www.chrisdeluca.me/2026/08/31/i-was-standing-on-the.html"
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/08/28/the-dc-command.html",
 				"title": "The dc command 💽",
 				"content_html": "<p>I stumbled across the dc command, after mistyping cd. It’s a math tool. It’s pretty esoteric in my opinion, but you can switch bases, which means you can do something like convert from a hex color to rgb, albeit digit-by-digit.</p>\n<p>For example, if you wanted to convert the hex color <code>#FAFBFC</code>, you’d convert <code>FC</code>, then <code>FB</code>, then <code>FC</code> (note the uppercase is necessary for <code>dc</code>).</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;\"><code class=\"language-bash\" data-lang=\"bash\"><span style=\"display:flex;\"><span>dc -e <span style=\"color:#e6db74\">&#39;16 i FA p&#39;</span> <span style=\"color:#75715e\"># 250</span>\n</span></span></code></pre></div>",
@@ -52,8 +60,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/08/14/the-old-god-shot-taken.html",
 				
-				"content_html": "<img src=\"uploads/2026/god-shot.jpg\" width=\"600\" height=\"798\" alt=\"Auto-generated description: Sun rays break through thick clouds over an elevated highway with streetlights and cars.\">\n<p>The old God shot, taken from a car window.</p>\n",
-				"content_text": "<img src=\"uploads/2026/god-shot.jpg\" width=\"600\" height=\"798\" alt=\"Auto-generated description: Sun rays break through thick clouds over an elevated highway with streetlights and cars.\">\n\nThe old God shot, taken from a car window.\n",
+				"content_html": "<img src=\"https://cdn.uploads.micro.blog/111874/2026/god-shot.jpg\" width=\"600\" height=\"798\" alt=\"Auto-generated description: Sun rays break through thick clouds over an elevated highway with streetlights and cars.\">\n<p>The old God shot, taken from a car window.</p>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/111874/2026/god-shot.jpg\" width=\"600\" height=\"798\" alt=\"Auto-generated description: Sun rays break through thick clouds over an elevated highway with streetlights and cars.\">\n\nThe old God shot, taken from a car window.\n",
 				"date_published": "2026-08-14T14:48:45-04:00",
 				"url": "https://www.chrisdeluca.me/2026/08/14/the-old-god-shot-taken.html",
 				"tags": ["photos"]
