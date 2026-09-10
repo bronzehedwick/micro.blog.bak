@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/09/10/mystery-science-theater-the-rifftrax.html",
+				"title": "Mystery Science Theater 3000: The RiffTrax Experiments — Sting of Death, 2026",
+				"content_html": "<p><img src=\"uploads/2026/1591705-mst3k-the-rifftrax-experiments-sting-of-death-0-600-0-900-crop.jpg\"/></p> <p>I laughed a lot.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/1591705-mst3k-the-rifftrax-experiments-sting-of-death-0-600-0-900-crop.jpg\"/></p> <p>I laughed a lot.</p>\n",
+				"date_published": "2026-09-10T10:01:13-04:00",
+				"url": "https://www.chrisdeluca.me/2026/09/10/mystery-science-theater-the-rifftrax.html",
+				"tags": ["movies","photos","letterboxd"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/09/09/its-not-every-day-i.html",
+				
+				"content_html": "<p>It&rsquo;s not every day I learn a new word. Today it was &ldquo;squamous&rdquo;.</p>\n<blockquote>\n<p>covered with or characterized by scaled: a squamous black hide.</p>\n</blockquote>\n",
+				"content_text": "It's not every day I learn a new word. Today it was \"squamous\".\n\n> covered with or characterized by scaled: a squamous black hide.\n",
+				"date_published": "2026-09-09T15:56:33-04:00",
+				"url": "https://www.chrisdeluca.me/2026/09/09/its-not-every-day-i.html"
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/09/09/coyote-vs-acme.html",
+				"title": "Coyote vs. Acme, 2026 - ★★★",
+				"content_html": "<p><img src=\"uploads/2026/1089088-coyote-vs-acme-0-600-0-900-crop.jpg\"/></p> <p>Surprisingly heartwarming! Others have noted the anti-capitalist themes, which are certainly here, and made more relevant by the movie almost not seeing release so Warner could write it off on their taxes. It's also got some solid jokes and Will Forte is always great. I didn't love how the movie looked; the animation is all 3D made to look like hand drawn, and it ends up looking like a video game. All and all, good fun.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/1089088-coyote-vs-acme-0-600-0-900-crop.jpg\"/></p> <p>Surprisingly heartwarming! Others have noted the anti-capitalist themes, which are certainly here, and made more relevant by the movie almost not seeing release so Warner could write it off on their taxes. It's also got some solid jokes and Will Forte is always great. I didn't love how the movie looked; the animation is all 3D made to look like hand drawn, and it ends up looking like a video game. All and all, good fun.</p>\n",
+				"date_published": "2026-09-09T15:37:20-04:00",
+				"url": "https://www.chrisdeluca.me/2026/09/09/coyote-vs-acme.html",
+				"tags": ["movies","photos","letterboxd"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/09/09/i-spent-too-long-getting.html",
 				
 				"content_html": "<p>I spent too long getting <a href=\"https://retroachievements.org/user/bronzehedwick\">Retro Achievements</a> working with my emulator, but it&rsquo;s finally done. Now I&rsquo;m off to earn digital awards for 30 year old games. 🕹️</p>\n",
@@ -27,8 +53,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/09/04/clocked.html",
 				
-				"content_html": "<p>Clocked.</p>\n<img src=\"uploads/2026/img-7472.jpg\" width=\"441\" height=\"600\" alt=\"Text in the image says: Your dialect map. Redder areas talk more like you; bluer areas least. You talk most like someone from New Jersey—about 62% of your answers match a typical resident. &10;&10;The map is red over New Jersey and western New York, quickly shading to orange the yellow outside those places. Most of the rest of the country is blue. \">\n",
-				"content_text": "Clocked. \n\n<img src=\"uploads/2026/img-7472.jpg\" width=\"441\" height=\"600\" alt=\"Text in the image says: Your dialect map. Redder areas talk more like you; bluer areas least. You talk most like someone from New Jersey—about 62% of your answers match a typical resident. &10;&10;The map is red over New Jersey and western New York, quickly shading to orange the yellow outside those places. Most of the rest of the country is blue. \">\n",
+				"content_html": "<p>Clocked.</p>\n<img src=\"https://cdn.uploads.micro.blog/111874/2026/img-7472.jpg\" width=\"441\" height=\"600\" alt=\"Text in the image says: Your dialect map. Redder areas talk more like you; bluer areas least. You talk most like someone from New Jersey—about 62% of your answers match a typical resident. &10;&10;The map is red over New Jersey and western New York, quickly shading to orange the yellow outside those places. Most of the rest of the country is blue. \">\n",
+				"content_text": "Clocked. \n\n<img src=\"https://cdn.uploads.micro.blog/111874/2026/img-7472.jpg\" width=\"441\" height=\"600\" alt=\"Text in the image says: Your dialect map. Redder areas talk more like you; bluer areas least. You talk most like someone from New Jersey—about 62% of your answers match a typical resident. &10;&10;The map is red over New Jersey and western New York, quickly shading to orange the yellow outside those places. Most of the rest of the country is blue. \">\n",
 				"date_published": "2026-09-04T18:36:16-04:00",
 				"url": "https://www.chrisdeluca.me/2026/09/04/clocked.html",
 				"tags": ["photos"]
