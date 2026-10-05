@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/10/05/the-onions-voting-simulator-is.html",
+				
+				"content_html": "<p>The Onion&rsquo;s <a href=\"https://theonion.com/voting-simulator/\">Voting Simulator</a> is characteristically subversive and funny. Go play it now.</p>\n",
+				"content_text": "The Onion's [Voting Simulator](https://theonion.com/voting-simulator/) is characteristically subversive and funny. Go play it now.  \n",
+				"date_published": "2026-10-05T10:27:39-04:00",
+				"url": "https://www.chrisdeluca.me/2026/10/05/the-onions-voting-simulator-is.html"
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/10/02/us.html",
 				"title": "Us, 2019",
 				"content_html": "<p><img src=\"uploads/2026/390520-us-0-600-0-900-crop.jpg\"/></p> <p>Still rips.</p>\n",
