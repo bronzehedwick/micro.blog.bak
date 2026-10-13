@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/10/12/dagon.html",
+				"title": "Dagon, 2001",
+				"content_html": "<p><img src=\"uploads/2026/45849-dagon-0-600-0-900-crop.jpg\"/></p> <p>Quite possibly the wettest film.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/45849-dagon-0-600-0-900-crop.jpg\"/></p> <p>Quite possibly the wettest film.</p>\n",
+				"date_published": "2026-10-12T22:48:54-04:00",
+				"url": "https://www.chrisdeluca.me/2026/10/12/dagon.html",
+				"tags": ["movies","photos","letterboxd"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/10/07/this-was-fun-and-liable.html",
+				
+				"content_html": "<img src=\"uploads/2026/my9games.png\" width=\"572\" height=\"884\" alt=\"Auto-generated description: Nine classic video game covers are displayed, including The Legend of Zelda: A Link to the Past, God of Thunder, Castlevania: Rondo of Blood, Baldur's Gate, Kirby's Adventure, Indiana Jones and the Fate of Atlantis, Jetpack, The Legend of Zelda: Ocarina of Time, and Super Mario World.\">\n<p>This was fun, and liable to change. <a href=\"https://my9games.net/en\">my9games.net/en</a> 🕹️</p>\n",
+				"content_text": "<img src=\"uploads/2026/my9games.png\" width=\"572\" height=\"884\" alt=\"Auto-generated description: Nine classic video game covers are displayed, including The Legend of Zelda: A Link to the Past, God of Thunder, Castlevania: Rondo of Blood, Baldur's Gate, Kirby's Adventure, Indiana Jones and the Fate of Atlantis, Jetpack, The Legend of Zelda: Ocarina of Time, and Super Mario World.\">\n\nThis was fun, and liable to change. [my9games.net/en](https://my9games.net/en) 🕹️\n",
+				"date_published": "2026-10-07T10:30:52-04:00",
+				"url": "https://www.chrisdeluca.me/2026/10/07/this-was-fun-and-liable.html",
+				"tags": ["games","photos"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/10/06/blacula.html",
 				"title": "Blacula, 1972",
 				"content_html": "<p><img src=\"uploads/2026/31926-blacula-0-600-0-900-crop.jpg\"/></p> <p>I was unprepared for how cool Blacula is.</p>\n",
@@ -70,8 +88,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/10/01/my-computer-reminded-me-i.html",
 				
-				"content_html": "<p>My computer reminded me I took this photo 5 years ago. I think this was New Mexico.</p>\n<img src=\"https://cdn.uploads.micro.blog/111874/2026/img-3274.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"content_text": "My computer reminded me I took this photo 5 years ago. I think this was New Mexico.\n\n<img src=\"https://cdn.uploads.micro.blog/111874/2026/img-3274.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>My computer reminded me I took this photo 5 years ago. I think this was New Mexico.</p>\n<img src=\"uploads/2026/img-3274.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "My computer reminded me I took this photo 5 years ago. I think this was New Mexico.\n\n<img src=\"uploads/2026/img-3274.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-10-01T20:39:41-04:00",
 				"url": "https://www.chrisdeluca.me/2026/10/01/my-computer-reminded-me-i.html",
 				"tags": ["photos"]
@@ -95,8 +113,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/09/26/backrooms.html",
 				"title": "Backrooms, 2026 - ★★★½",
-				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/976419-backrooms-2026-0-600-0-900-crop.jpg\"/></p> <p>Some fun creepy pasta over here.</p>\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/976419-backrooms-2026-0-600-0-900-crop.jpg\"/></p> <p>Some fun creepy pasta over here.</p>\n",
+				"content_html": "<p><img src=\"uploads/2026/976419-backrooms-2026-0-600-0-900-crop.jpg\"/></p> <p>Some fun creepy pasta over here.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/976419-backrooms-2026-0-600-0-900-crop.jpg\"/></p> <p>Some fun creepy pasta over here.</p>\n",
 				"date_published": "2026-09-26T00:14:25-04:00",
 				"url": "https://www.chrisdeluca.me/2026/09/26/backrooms.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -104,8 +122,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/09/25/primetime.html",
 				"title": "Primetime, 2026 - ★★★★",
-				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/1262019-primetime-2026-0-600-0-900-crop.jpg\"/></p> <p>Art</p>\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/1262019-primetime-2026-0-600-0-900-crop.jpg\"/></p> <p>Art</p>\n",
+				"content_html": "<p><img src=\"uploads/2026/1262019-primetime-2026-0-600-0-900-crop.jpg\"/></p> <p>Art</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/1262019-primetime-2026-0-600-0-900-crop.jpg\"/></p> <p>Art</p>\n",
 				"date_published": "2026-09-25T21:27:25-04:00",
 				"url": "https://www.chrisdeluca.me/2026/09/25/primetime.html",
 				"tags": ["movies","photos","letterboxd"]
