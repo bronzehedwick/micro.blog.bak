@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/10/31/several-years-ago-i-made.html",
+				
+				"content_html": "<p><video src=\"https://cdn.uploads.micro.mov/111874/2026/bloody-mary-rondo-of-blood-web/playlist.m3u8\" poster=\"https://cdn.uploads.micro.blog/111874/2026/frames/1887323-41-ff9117.jpg\" width=\"800\" height=\"450\" controls=\"controls\" preload=\"metadata\"></video></p>\n<p>Several years ago I made a silly video where I played <em>Castlevania: Rondo of Blood</em> while drinking a canned Bloody Mary and swearing profusely. It was only seen by a select group of friends. Until now. Happy Halloween! 🎃</p>\n",
+				"content_text": "<video src=\"https://cdn.uploads.micro.mov/111874/2026/bloody-mary-rondo-of-blood-web/playlist.m3u8\" poster=\"https://cdn.uploads.micro.blog/111874/2026/frames/1887323-41-ff9117.jpg\" width=\"800\" height=\"450\" controls=\"controls\" preload=\"metadata\"></video>\n\nSeveral years ago I made a silly video where I played _Castlevania: Rondo of Blood_ while drinking a canned Bloody Mary and swearing profusely. It was only seen by a select group of friends. Until now. Happy Halloween! 🎃\n",
+				"date_published": "2026-10-31T16:15:33-04:00",
+				"url": "https://www.chrisdeluca.me/2026/10/31/several-years-ago-i-made.html"
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/10/29/you-can-see-everything.html",
 				"title": "You Can See Everything, 2026 - ★★★★★",
 				"content_html": "<p><img src=\"uploads/2026/1629443-you-can-see-everything-0-600-0-900-crop.jpg\"/></p> <p>I can see everything is everything I wanted and more. Go see it in a packed theater if you can get a ticket.</p>\n",
@@ -45,8 +53,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/10/25/i-spit-on-your-grave.html",
 				"title": "I Spit on Your Grave, 1978",
-				"content_html": "<p><img src=\"uploads/2026/36190-i-spit-on-your-grave-0-600-0-900-crop.jpg\"/></p> <p>Less a movie and more an encapsulation of toxic masculinity via 70s grindhouse. I know it’s important historically but god damn you know?</p>\n",
-				"content_text": "<p><img src=\"uploads/2026/36190-i-spit-on-your-grave-0-600-0-900-crop.jpg\"/></p> <p>Less a movie and more an encapsulation of toxic masculinity via 70s grindhouse. I know it’s important historically but god damn you know?</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/36190-i-spit-on-your-grave-0-600-0-900-crop.jpg\"/></p> <p>Less a movie and more an encapsulation of toxic masculinity via 70s grindhouse. I know it’s important historically but god damn you know?</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/36190-i-spit-on-your-grave-0-600-0-900-crop.jpg\"/></p> <p>Less a movie and more an encapsulation of toxic masculinity via 70s grindhouse. I know it’s important historically but god damn you know?</p>\n",
 				"date_published": "2026-10-25T23:04:42-04:00",
 				"url": "https://www.chrisdeluca.me/2026/10/25/i-spit-on-your-grave.html",
 				"tags": ["movies","photos","letterboxd"]
