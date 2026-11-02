@@ -7,11 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/11/02/ive-been-loving-quxnet-a.html",
+				
+				"content_html": "<p>I&rsquo;ve been loving <a href=\"https://quxnet.net\">quxnet</a>, a new community forum with old school web goals, and modern affordances.</p>\n<p>The Modded Bear blog <a href=\"https://moddedbear.com/quxnet-is-a-breath-of-fresh-air/\">says it well</a>.</p>\n<blockquote>\n<p>Something I appreciate about quxnet’s design is that it all feels very intentional. There’s no push or email notifications by design. It encourages you to build, participate, and be creative. It’s all very refreshing.</p>\n</blockquote>\n<p>Come check it out if that sounds interesting.</p>\n",
+				"content_text": "I've been loving [quxnet](https://quxnet.net), a new community forum with old school web goals, and modern affordances.\n\nThe Modded Bear blog [says it well](https://moddedbear.com/quxnet-is-a-breath-of-fresh-air/).\n\n> Something I appreciate about quxnet’s design is that it all feels very intentional. There’s no push or email notifications by design. It encourages you to build, participate, and be creative. It’s all very refreshing.\n\nCome check it out if that sounds interesting.\n",
+				"date_published": "2026-11-02T09:06:53-06:00",
+				"url": "https://www.chrisdeluca.me/2026/11/02/ive-been-loving-quxnet-a.html"
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/10/31/several-years-ago-i-made.html",
 				
 				"content_html": "<p><video src=\"https://cdn.uploads.micro.mov/111874/2026/bloody-mary-rondo-of-blood-web/playlist.m3u8\" poster=\"https://cdn.uploads.micro.blog/111874/2026/frames/1887323-41-ff9117.jpg\" width=\"800\" height=\"450\" controls=\"controls\" preload=\"metadata\"></video></p>\n<p>Several years ago I made a silly video where I played <em>Castlevania: Rondo of Blood</em> while drinking a canned Bloody Mary and swearing profusely. It was only seen by a select group of friends. Until now. Happy Halloween! 🎃</p>\n",
 				"content_text": "<video src=\"https://cdn.uploads.micro.mov/111874/2026/bloody-mary-rondo-of-blood-web/playlist.m3u8\" poster=\"https://cdn.uploads.micro.blog/111874/2026/frames/1887323-41-ff9117.jpg\" width=\"800\" height=\"450\" controls=\"controls\" preload=\"metadata\"></video>\n\nSeveral years ago I made a silly video where I played _Castlevania: Rondo of Blood_ while drinking a canned Bloody Mary and swearing profusely. It was only seen by a select group of friends. Until now. Happy Halloween! 🎃\n",
-				"date_published": "2026-10-31T16:15:33-04:00",
+				"date_published": "2026-10-31T14:15:33-06:00",
 				"url": "https://www.chrisdeluca.me/2026/10/31/several-years-ago-i-made.html"
 			},
 			{
@@ -19,7 +27,7 @@
 				"title": "You Can See Everything, 2026 - ★★★★★",
 				"content_html": "<p><img src=\"uploads/2026/1629443-you-can-see-everything-0-600-0-900-crop.jpg\"/></p> <p>I can see everything is everything I wanted and more. Go see it in a packed theater if you can get a ticket.</p>\n",
 				"content_text": "<p><img src=\"uploads/2026/1629443-you-can-see-everything-0-600-0-900-crop.jpg\"/></p> <p>I can see everything is everything I wanted and more. Go see it in a packed theater if you can get a ticket.</p>\n",
-				"date_published": "2026-10-29T22:32:55-04:00",
+				"date_published": "2026-10-29T20:32:55-06:00",
 				"url": "https://www.chrisdeluca.me/2026/10/29/you-can-see-everything.html",
 				"tags": ["movies","photos","letterboxd"]
 			},
@@ -28,7 +36,7 @@
 				
 				"content_html": "<p>A photo of the <a href=\"https://www.chrisdeluca.me/2026/10/27/i-saw-savak-play-at.html\">SAVAK show</a>. 🎵</p>\n<img src=\"uploads/2026/img-7542.jpg\" width=\"600\" height=\"449\" alt=\"A small crowd is gathered in an outdoor courtyard with string lights and paper lanterns to watch a live band perform on a wooden stage.\">\n",
 				"content_text": "A photo of the [SAVAK show](https://www.chrisdeluca.me/2026/10/27/i-saw-savak-play-at.html). 🎵\n\n<img src=\"uploads/2026/img-7542.jpg\" width=\"600\" height=\"449\" alt=\"A small crowd is gathered in an outdoor courtyard with string lights and paper lanterns to watch a live band perform on a wooden stage.\">\n",
-				"date_published": "2026-10-27T12:00:29-04:00",
+				"date_published": "2026-10-27T10:00:29-06:00",
 				"url": "https://www.chrisdeluca.me/2026/10/27/a-photo-of-the-savak.html",
 				"tags": ["music","photos"]
 			},
@@ -37,16 +45,16 @@
 				
 				"content_html": "<p>I saw <a href=\"https://en.wikipedia.org/wiki/Savak_(band)\">SAVAK</a> play at <a href=\"https://mamatriedbk.com/\">Mama Tried</a> over the weekend. Great set, and the band is super nice. The bar is an old school punk dive. No vapes, but the whole place had the sour smell of old beer and stale cigarettes. Exactly how I think of a bar. A+ 🎵</p>\n",
 				"content_text": "I saw [SAVAK](https://en.wikipedia.org/wiki/Savak_(band)) play at [Mama Tried](https://mamatriedbk.com/) over the weekend. Great set, and the band is super nice. The bar is an old school punk dive. No vapes, but the whole place had the sour smell of old beer and stale cigarettes. Exactly how I think of a bar. A+ 🎵\n",
-				"date_published": "2026-10-27T11:48:33-04:00",
+				"date_published": "2026-10-27T09:48:33-06:00",
 				"url": "https://www.chrisdeluca.me/2026/10/27/i-saw-savak-play-at.html",
 				"tags": ["music"]
 			},
 			{
 				"id": "http://chrisd.micro.blog/2026/10/27/razorback.html",
 				"title": "Razorback, 1984 - ★★",
-				"content_html": "<p><img src=\"uploads/2026/35521-razorback-0-600-0-900-crop.jpg\"/></p> <p>Starts insane, goes fairly grounded for a bit, then goes bug fuck nuts for the final stretch. Feels like a good DP shot a student film.</p>\n",
-				"content_text": "<p><img src=\"uploads/2026/35521-razorback-0-600-0-900-crop.jpg\"/></p> <p>Starts insane, goes fairly grounded for a bit, then goes bug fuck nuts for the final stretch. Feels like a good DP shot a student film.</p>\n",
-				"date_published": "2026-10-27T09:50:55-04:00",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/35521-razorback-0-600-0-900-crop.jpg\"/></p> <p>Starts insane, goes fairly grounded for a bit, then goes bug fuck nuts for the final stretch. Feels like a good DP shot a student film.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/35521-razorback-0-600-0-900-crop.jpg\"/></p> <p>Starts insane, goes fairly grounded for a bit, then goes bug fuck nuts for the final stretch. Feels like a good DP shot a student film.</p>\n",
+				"date_published": "2026-10-27T07:50:55-06:00",
 				"url": "https://www.chrisdeluca.me/2026/10/27/razorback.html",
 				"tags": ["movies","photos","letterboxd"]
 			},
