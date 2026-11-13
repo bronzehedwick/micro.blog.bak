@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://chrisd.micro.blog/2026/11/12/godzilla-minus-zero.html",
+				"title": "Godzilla Minus Zero, 2026 - ★★★½",
+				"content_html": "<p><img src=\"uploads/2026/1266684-godzilla-minus-zero-0-600-0-900-crop.jpg\"/></p> <p>It’s no minus one, but god damn is it a good time. Big monster go roar.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/1266684-godzilla-minus-zero-0-600-0-900-crop.jpg\"/></p> <p>It’s no minus one, but god damn is it a good time. Big monster go roar.</p>\n",
+				"date_published": "2026-11-12T20:58:52-08:00",
+				"url": "https://www.chrisdeluca.me/2026/11/12/godzilla-minus-zero.html",
+				"tags": ["movies","photos","letterboxd"]
+			},
+			{
+				"id": "http://chrisd.micro.blog/2026/11/11/just-for-fun-heres-my.html",
+				
+				"content_html": "<p>Just for fun, here&rsquo;s my 10 most used CLI commands.</p>\n<ol>\n<li><code>git</code></li>\n<li><code>ls</code></li>\n<li><code>rg</code></li>\n<li><code>nvim</code></li>\n<li><code>ddev</code></li>\n<li><code>cd</code></li>\n<li><code>mv</code></li>\n<li><code>fd</code></li>\n<li><code>rm</code></li>\n<li><code>less</code></li>\n</ol>\n<p>I generated the list with this one liner (using fish).</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;\"><code class=\"language-sh\" data-lang=\"sh\"><span style=\"display:flex;\"><span>history | awk <span style=\"color:#e6db74\">&#39;{print $1}&#39;</span> | sort | uniq -c | sort -nr | head -n <span style=\"color:#ae81ff\">10</span>\n</span></span></code></pre></div><p>💽</p>\n",
+				"content_text": "Just for fun, here's my 10 most used CLI commands.\n\n1. `git`\n2. `ls`\n3. `rg`\n4. `nvim`\n5. `ddev`\n6. `cd`\n7. `mv`\n8. `fd`\n10. `rm`\n11. `less`\n\nI generated the list with this one liner (using fish).\n\n```sh\nhistory | awk '{print $1}' | sort | uniq -c | sort -nr | head -n 10\n```\n\n💽\n",
+				"date_published": "2026-11-11T10:23:51-08:00",
+				"url": "https://www.chrisdeluca.me/2026/11/11/just-for-fun-heres-my.html",
+				"tags": ["tech"]
+			},
+			{
 				"id": "http://chrisd.micro.blog/2026/11/11/today-i-learned-that-casey.html",
 				
 				"content_html": "<p>Today I learned that Casey Garven is an actor, and that I&rsquo;ve seen <a href=\"https://letterboxd.com/actor/casey-garven/\">all their movies</a>. 🍿</p>\n",
@@ -36,8 +54,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/11/09/ballerina.html",
 				"title": "Ballerina, 2025 - ★★",
-				"content_html": "<p><img src=\"uploads/2026/470671-ballerina-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Monday November 9, 2026.</p>\n",
-				"content_text": "<p><img src=\"uploads/2026/470671-ballerina-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Monday November 9, 2026.</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/470671-ballerina-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Monday November 9, 2026.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/111874/2026/470671-ballerina-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Monday November 9, 2026.</p>\n",
 				"date_published": "2026-11-09T22:18:45-08:00",
 				"url": "https://www.chrisdeluca.me/2026/11/09/ballerina.html",
 				"tags": ["movies","photos","letterboxd"]
@@ -45,8 +63,8 @@
 			{
 				"id": "http://chrisd.micro.blog/2026/11/09/im-visiting-family-out-in.html",
 				
-				"content_html": "<p>I&rsquo;m visiting family out in LA, and my cousin made me this delicious and beautifully plated breakfast. All hail the avocado king.</p>\n<img src=\"uploads/2026/ff3b64b754.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
-				"content_text": "I'm visiting family out in LA, and my cousin made me this delicious and beautifully plated breakfast. All hail the avocado king.\n\n<img src=\"uploads/2026/ff3b64b754.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>I&rsquo;m visiting family out in LA, and my cousin made me this delicious and beautifully plated breakfast. All hail the avocado king.</p>\n<img src=\"https://cdn.uploads.micro.blog/111874/2026/ff3b64b754.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
+				"content_text": "I'm visiting family out in LA, and my cousin made me this delicious and beautifully plated breakfast. All hail the avocado king.\n\n<img src=\"https://cdn.uploads.micro.blog/111874/2026/ff3b64b754.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-11-09T13:43:57-08:00",
 				"url": "https://www.chrisdeluca.me/2026/11/09/im-visiting-family-out-in.html",
 				"tags": ["photos"]
